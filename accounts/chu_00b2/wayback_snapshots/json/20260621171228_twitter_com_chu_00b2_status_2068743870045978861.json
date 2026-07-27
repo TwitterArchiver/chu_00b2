@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068736784784343090",
+    "created_at": "2026-06-21T17:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068743870045978861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781993166469767168",
+          "start": 0,
+          "username": "gwvpsceping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068743870045978861",
+    "in_reply_to_user_id": "1781993166469767168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068736784784343090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwvpsceping 那倒也不是，我是因为只有一台vps而且被送中了而且一直在被卡verify和captcha，且没有预算再买一台，所以又买了个机场的，把vps作fallback了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 209,
+        "media_key": "3_2068736778425806848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWhI6vbMAAx5UN.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068736784784343090",
+        "created_at": "2026-06-21T17:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068743870045978861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781993166469767168",
+              "start": 0,
+              "username": "gwvpsceping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068743870045978861",
+        "in_reply_to_user_id": "1781993166469767168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068736784784343090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwvpsceping 那倒也不是，我是因为只有一台vps而且被送中了而且一直在被卡verify和captcha，且没有预算再买一台，所以又买了个机场的，把vps作fallback了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068736778425806848"
+          ]
+        },
+        "author_id": "1781993166469767168",
+        "conversation_id": "2068736784784343090",
+        "created_at": "2026-06-21T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068736784784343090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NFhREXQda",
+              "end": 43,
+              "expanded_url": "https://x.com/gwvpsceping/status/2068736784784343090/photo/1",
+              "media_key": "3_2068736778425806848",
+              "start": 20,
+              "url": "https://t.co/7NFhREXQda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068736784784343090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是绝大部分人VPN翻墙出来的心声了吧 https://t.co/7NFhREXQda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | 暂未od | 头像随心情变化而变化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 215,
+          "like_count": 7147,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T10:27:57.000Z",
+        "description": "国外VPS测评-云服务器主机测评服务站\n站点: https://t.co/pw3RoWtlpV\nTG群：https://t.co/NIKBhBqMbr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gwvpsceping.com",
+                "end": 47,
+                "expanded_url": "https://www.gwvpsceping.com",
+                "start": 24,
+                "url": "https://t.co/pw3RoWtlpV"
+              },
+              {
+                "display_url": "t.me/gwvpsceping",
+                "end": 75,
+                "expanded_url": "https://t.me/gwvpsceping",
+                "start": 52,
+                "url": "https://t.co/NIKBhBqMbr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gwvpsceping.com",
+                "end": 23,
+                "expanded_url": "https://www.gwvpsceping.com/",
+                "start": 0,
+                "url": "https://t.co/ukQJZvfDIY"
+              }
+            ]
+          }
+        },
+        "id": "1781993166469767168",
+        "location": "Hong Kong",
+        "name": "国外VPS测评",
+        "pinned_tweet_id": "2068214729521365213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068233462096789504/2bik2nEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 10,
+          "like_count": 12,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/ukQJZvfDIY",
+        "username": "gwvpsceping",
+        "verified": true
+      }
+    ]
+  }
+}

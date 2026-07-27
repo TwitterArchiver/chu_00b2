@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2080604572704542908",
+    "created_at": "2026-07-24T17:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080713300950852058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899289095794479104",
+          "start": 0,
+          "username": "zs1341110279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080713300950852058",
+    "in_reply_to_user_id": "1899289095794479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080699225407635792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zs1341110279 诶我是四点钟的快闪，不过我是社恐的说，肯定不敢线下和老师说话的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2080604572704542908",
+        "created_at": "2026-07-24T17:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080713300950852058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899289095794479104",
+              "start": 0,
+              "username": "zs1341110279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080713300950852058",
+        "in_reply_to_user_id": "1899289095794479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080699225407635792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zs1341110279 诶我是四点钟的快闪，不过我是社恐的说，肯定不敢线下和老师说话的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899289095794479104",
+        "conversation_id": "2080604572704542908",
+        "created_at": "2026-07-24T16:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080699225407635792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080699225407635792",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080687708343783613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 可以可以～几点呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 忘了(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/aFMDgQrE01"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "SH",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 398,
+          "like_count": 12395,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/aFMDgQrE01",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn  2010/5/21（見證，精日，反動派滾）性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥",
+        "id": "1899289095794479104",
+        "name": "ZS🧀chess🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2070429586681446569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 119,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false
+      }
+    ]
+  }
+}

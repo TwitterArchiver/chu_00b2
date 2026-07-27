@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2079934075704639750",
+    "created_at": "2026-07-24T04:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080504944562495686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045797662478286848",
+          "start": 0,
+          "username": "yuer0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080504944562495686",
+    "in_reply_to_user_id": "2045797662478286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079934075704639750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuer0721 诶？没有叭，能刷到的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2079934075704639750",
+        "created_at": "2026-07-24T04:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080504944562495686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045797662478286848",
+              "start": 0,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080504944562495686",
+        "in_reply_to_user_id": "2045797662478286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079934075704639750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuer0721 诶？没有叭，能刷到的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045797662478286848",
+        "conversation_id": "2079934075704639750",
+        "created_at": "2026-07-22T14:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079934075704639750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079934075704639750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1033,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔\n感觉我可以把我的讣告发在这儿\n这个号发推文都没人能看见的，被推特ghost ban了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 忘了(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/aFMDgQrE01"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "SH",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 397,
+          "like_count": 12363,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/aFMDgQrE01",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T09:33:19.000Z",
+        "description": "|喜欢的熊@A_Asystem | 我亲爱的宝宝@subdronexyn | 主人@huihui_mikumi | 闺蜜@qiancongxyn | 大号/梗图号@yuerQwQ | ——这里是小白羽的生活号qwq，无意义的碎碎念将会发布在这里awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2045797662478286848",
+        "location": "最后的思绪",
+        "name": "白羽儿yuer🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060940291872546816/_ia-IVk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 41,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "yuer0721",
+        "verified": false
+      }
+    ]
+  }
+}

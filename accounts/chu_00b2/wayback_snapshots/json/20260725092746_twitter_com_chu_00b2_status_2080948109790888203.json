@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080948036197593088"
+      ]
+    },
+    "author_id": "1932043060550242304",
+    "conversation_id": "2080948109790888203",
+    "created_at": "2026-07-25T09:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080948109790888203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1899289095794479104",
+          "start": 20,
+          "username": "zs1341110279"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUheVbAGQr",
+          "end": 62,
+          "expanded_url": "https://x.com/chu_00b2/status/2080948109790888203/photo/1",
+          "media_key": "3_2080948036197593088",
+          "start": 39,
+          "url": "https://t.co/OUheVbAGQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080948109790888203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好的单抽出金哇！隐藏款！糖糖！谢谢 @zs1341110279 的强运！ https://t.co/OUheVbAGQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2080948036197593088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEDNq2asAA3EqX.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080948036197593088"
+          ]
+        },
+        "author_id": "1932043060550242304",
+        "conversation_id": "2080948109790888203",
+        "created_at": "2026-07-25T09:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080948109790888203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1899289095794479104",
+              "start": 20,
+              "username": "zs1341110279"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUheVbAGQr",
+              "end": 62,
+              "expanded_url": "https://x.com/chu_00b2/status/2080948109790888203/photo/1",
+              "media_key": "3_2080948036197593088",
+              "start": 39,
+              "url": "https://t.co/OUheVbAGQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080948109790888203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好的单抽出金哇！隐藏款！糖糖！谢谢 @zs1341110279 的强运！ https://t.co/OUheVbAGQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 忘了(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/aFMDgQrE01"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "SH",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 397,
+          "like_count": 12402,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/aFMDgQrE01",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn  2010/5/21（見證，精日，反動派滾）性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥",
+        "id": "1899289095794479104",
+        "name": "ZS🧀chess🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2080732209745739867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 122,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false
+      }
+    ]
+  }
+}

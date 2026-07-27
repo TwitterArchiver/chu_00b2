@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068635871386178014",
+    "created_at": "2026-06-21T10:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068647462450155777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068647462450155777",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068635871386178014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa 羡慕呢..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068635855015829504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVFWZva4AA6Z4S.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068635871386178014",
+        "created_at": "2026-06-21T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068647462450155777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068647462450155777",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068635871386178014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa 羡慕呢..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068635855015829504"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2068635871386178014",
+        "created_at": "2026-06-21T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068635871386178014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAhAbBXF7v",
+              "end": 23,
+              "expanded_url": "https://x.com/MioKitsukawa/status/2068635871386178014/photo/1",
+              "media_key": "3_2068635855015829504",
+              "start": 0,
+              "url": "https://t.co/cAhAbBXF7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068635871386178014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cAhAbBXF7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 212,
+          "like_count": 7089,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | Developer | TypeScript | Node.js | 先天跨 | 会伪音 | MioMtFWiki 创建者 & 维护者 | 偷你家茶兀@ogsa1687497 | ✨同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 595,
+          "like_count": 921,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068239169365958694",
+    "created_at": "2026-06-20T10:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068282379693912564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926506432276348928",
+          "start": 0,
+          "username": "linwei130"
+        },
+        {
+          "end": 24,
+          "id": "1802704441961017344",
+          "start": 11,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068282379693912564",
+    "in_reply_to_user_id": "1926506432276348928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068281450374565975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linwei130 @misumikaede3 可惜不想出门啊哈哈（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068239169365958694",
+        "created_at": "2026-06-20T10:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068282379693912564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926506432276348928",
+              "start": 0,
+              "username": "linwei130"
+            },
+            {
+              "end": 24,
+              "id": "1802704441961017344",
+              "start": 11,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068282379693912564",
+        "in_reply_to_user_id": "1926506432276348928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068281450374565975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwei130 @misumikaede3 可惜不想出门啊哈哈（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926506432276348928",
+        "conversation_id": "2068239169365958694",
+        "created_at": "2026-06-20T10:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068281450374565975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            },
+            {
+              "end": 23,
+              "id": "1802704441961017344",
+              "start": 10,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068281450374565975",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068274784140738732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 @misumikaede3 就是大悦城哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | OVERALCOHOL SAIKOU!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在准备出门)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066928123523051520/E5ku9piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 199,
+          "like_count": 6637,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救「天使夺舍」",
+        "pinned_tweet_id": "2065462564105150741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 658,
+          "like_count": 7352,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "linwei130",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 1263,
+          "like_count": 37370,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 11926
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

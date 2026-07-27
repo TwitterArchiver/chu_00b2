@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068960319196827774",
+    "created_at": "2026-06-22T07:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068960319196827774"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068960319196827774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说前两天的抑郁/焦虑情绪和这两天干呕会不会是因为大前天大正吃多了哇..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068960319196827774",
+        "created_at": "2026-06-22T07:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068960319196827774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068960319196827774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说前两天的抑郁/焦虑情绪和这两天干呕会不会是因为大前天大正吃多了哇..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | 暂未od | 头像随心情变化而变化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 215,
+          "like_count": 7213,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      }
+    ]
+  }
+}

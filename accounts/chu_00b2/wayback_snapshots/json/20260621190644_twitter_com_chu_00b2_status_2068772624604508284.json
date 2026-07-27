@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068772621471358976"
+      ]
+    },
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068772624604508284",
+    "created_at": "2026-06-21T19:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068772624604508284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d1iA2c5Rrv",
+          "end": 128,
+          "expanded_url": "https://x.com/chu_00b2/status/2068772624604508284/photo/1",
+          "media_key": "3_2068772621471358976",
+          "start": 105,
+          "url": "https://t.co/d1iA2c5Rrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068772624604508284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Mouz来了个年轻人，人们说major只是时间问题\n\"But one day, I'll be the champion!\"\n\n“尼古拉•NiKo•科瓦奇”\n夸父终于追到了他的太阳\n——2026科隆major https://t.co/d1iA2c5Rrv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2068772621471358976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXBvQfaoAAland.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068772621471358976"
+          ]
+        },
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068772624604508284",
+        "created_at": "2026-06-21T19:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068772624604508284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1iA2c5Rrv",
+              "end": 128,
+              "expanded_url": "https://x.com/chu_00b2/status/2068772624604508284/photo/1",
+              "media_key": "3_2068772621471358976",
+              "start": 105,
+              "url": "https://t.co/d1iA2c5Rrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068772624604508284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mouz来了个年轻人，人们说major只是时间问题\n\"But one day, I'll be the champion!\"\n\n“尼古拉•NiKo•科瓦奇”\n夸父终于追到了他的太阳\n——2026科隆major https://t.co/d1iA2c5Rrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | 暂未od | 头像随心情变化而变化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 215,
+          "like_count": 7166,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      }
+    ]
+  }
+}

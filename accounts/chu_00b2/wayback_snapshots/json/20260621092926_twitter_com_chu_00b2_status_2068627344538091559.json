@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068591672771146130",
+    "created_at": "2026-06-21T09:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068627344538091559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 28,
+          "id": "1932434375955857409",
+          "start": 16,
+          "username": "ena1_mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068627344538091559",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068591672771146130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @ena1_mizuki 能看到星空呢...羡慕呢..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2068591658825043968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUdJ2GaUAADur4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068591672771146130",
+        "created_at": "2026-06-21T09:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068627344538091559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1932434375955857409",
+              "start": 16,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068627344538091559",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068591672771146130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @ena1_mizuki 能看到星空呢...羡慕呢..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068591658825043968"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2068591672771146130",
+        "created_at": "2026-06-21T07:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068591672771146130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1932434375955857409",
+              "start": 26,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTBJFRxnbp",
+              "end": 151,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2068591672771146130/photo/1",
+              "media_key": "3_2068591658825043968",
+              "start": 128,
+              "url": "https://t.co/DTBJFRxnbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068591672771146130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "1932434375955857409",
+                "start": 26,
+                "username": "ena1_mizuki"
+              }
+            ]
+          },
+          "text": "ദ്ദി˶ｰ̀֊ｰ́ )✧星空最美啦🌌～拍星星才是和@ena1_mizuki 姐姐的正戏喵🥰\n\n夏季大三角～盛夏的东方最引人注目的地方，牛郎织女和漂在银河里波光粼粼的天津四😘淡薄的高云笼罩着银河的轮廓，仿佛咱在俯瞰水乡小河上的朦胧晨雾呢✧>ᴗo⸝⸝\n\n稍后咱标一下这些星星…希望下次没云让咱多拍点望远镜里的东西喵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ദ്ദി˶ｰ̀֊ｰ́ )✧星空最美啦🌌～拍星星才是和@ena1_mizuki 姐姐的正戏喵🥰\n\n夏季大三角～盛夏的东方最引人注目的地方，牛郎织女和漂在银河里波光粼粼的天津四😘淡薄的高云笼罩着银河的轮廓，仿佛咱在俯瞰水乡小河上的朦胧晨雾呢✧&gt;ᴗo⸝⸝ https://t.co/DTBJFRxnbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 210,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 6505,
+          "like_count": 15792,
+          "listed_count": 10,
+          "media_count": 331,
+          "tweet_count": 3993
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 1315,
+          "like_count": 18908,
+          "listed_count": 8,
+          "media_count": 726,
+          "tweet_count": 5465
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

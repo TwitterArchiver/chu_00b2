@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068460383455891690",
+    "created_at": "2026-06-21T07:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068602904542667039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068602904542667039",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068460383455891690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 三得利无糖乌龙茶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1922,
+        "media_key": "3_2068353469627699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLREhaMbEAAMepl.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068460383455891690",
+        "created_at": "2026-06-21T07:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602904542667039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068602904542667039",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068460383455891690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 三得利无糖乌龙茶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068353469627699200"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068460383455891690",
+        "created_at": "2026-06-20T22:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068460383455891690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqpEhkb6X6",
+              "end": 35,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068460383455891690/photo/1",
+              "media_key": "3_2068353469627699200",
+              "start": 12,
+              "url": "https://t.co/kqpEhkb6X6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068460383455891690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8565,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的饮料让人毫无欲望 https://t.co/kqpEhkb6X6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | OVERALCOHOL SAIKOU!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 205,
+          "like_count": 6952,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9428,
+          "following_count": 2406,
+          "like_count": 33100,
+          "listed_count": 25,
+          "media_count": 2130,
+          "tweet_count": 6387
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

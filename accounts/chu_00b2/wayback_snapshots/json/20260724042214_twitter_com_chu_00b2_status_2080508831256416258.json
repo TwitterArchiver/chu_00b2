@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2080485663556919355",
+    "created_at": "2026-07-24T04:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080508831256416258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491080744508489731",
+          "start": 0,
+          "username": "0308_Sodashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080508831256416258",
+    "in_reply_to_user_id": "1491080744508489731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080485663556919355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0308_Sodashi 珍珠奶茶真好喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2080485651481530368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9erVjakAAuEiU.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2080485663556919355",
+        "created_at": "2026-07-24T04:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080508831256416258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491080744508489731",
+              "start": 0,
+              "username": "0308_Sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080508831256416258",
+        "in_reply_to_user_id": "1491080744508489731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080485663556919355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0308_Sodashi 珍珠奶茶真好喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080485651481530368"
+          ]
+        },
+        "author_id": "1491080744508489731",
+        "conversation_id": "2080485663556919355",
+        "created_at": "2026-07-24T02:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080485663556919355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFN2g6IxqG",
+              "end": 36,
+              "expanded_url": "https://x.com/0308_Sodashi/status/2080485663556919355/photo/1",
+              "media_key": "3_2080485651481530368",
+              "start": 13,
+              "url": "https://t.co/qFN2g6IxqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485663556919355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超市后门喝珍珠奶茶的两人 https://t.co/qFN2g6IxqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 忘了(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/aFMDgQrE01"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "SH",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 397,
+          "like_count": 12370,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/aFMDgQrE01",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "｜德國在住｜鉄道・帝国海軍・競馬が好き｜艦これ 柱島泊地｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "2026320201122554124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067957780565106688/JvRTf8sR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 3711,
+          "like_count": 127718,
+          "listed_count": 16,
+          "media_count": 5012,
+          "tweet_count": 33462
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_Sodashi",
+        "verified": false
+      }
+    ]
+  }
+}

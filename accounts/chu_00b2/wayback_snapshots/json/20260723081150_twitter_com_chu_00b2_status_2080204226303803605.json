@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2080176928275726606",
+    "created_at": "2026-07-23T08:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080204226303803605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071911159737774080",
+          "start": 0,
+          "username": "1561894jq3uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080204226303803605",
+    "in_reply_to_user_id": "2071911159737774080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080176928275726606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1561894jq3uf 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080176909917257728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5F4NmWgAAbViT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2080176928275726606",
+        "created_at": "2026-07-23T08:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080204226303803605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071911159737774080",
+              "start": 0,
+              "username": "1561894jq3uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080204226303803605",
+        "in_reply_to_user_id": "2071911159737774080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080176928275726606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1561894jq3uf 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080176909917257728"
+          ]
+        },
+        "author_id": "2071911159737774080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080176928275726606",
+        "created_at": "2026-07-23T06:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080176928275726606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ue6PynGZ7x",
+              "end": 31,
+              "expanded_url": "https://x.com/1561894jq3uf/status/2080176928275726606/photo/1",
+              "media_key": "3_2080176909917257728",
+              "start": 8,
+              "url": "https://t.co/Ue6PynGZ7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080176928275726606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己生日快乐 https://t.co/Ue6PynGZ7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 忘了(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/aFMDgQrE01"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "SH",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 391,
+          "like_count": 12267,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/aFMDgQrE01",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T11:00:48.000Z",
+        "description": "A transgender person\nTo be alive is our greatest resistance to this unfair world",
+        "id": "2071911159737774080",
+        "name": "Loshdj🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071912028097167360/KhqhF9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "1561894jq3uf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068427584694538500",
+    "created_at": "2026-06-21T01:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068503038151864817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1329463960194723847",
+          "start": 0,
+          "username": "FalconsEsport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068503038151864817",
+    "in_reply_to_user_id": "1329463960194723847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068427584694538500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FalconsEsport TeSeS神龙发力了哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2068427520114827264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSH3twWIAAWZG6.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068427584694538500",
+        "created_at": "2026-06-21T01:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068503038151864817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1329463960194723847",
+              "start": 0,
+              "username": "FalconsEsport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068503038151864817",
+        "in_reply_to_user_id": "1329463960194723847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068427584694538500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FalconsEsport TeSeS神龙发力了哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068427520114827264"
+          ]
+        },
+        "author_id": "1329463960194723847",
+        "conversation_id": "2068427584694538500",
+        "created_at": "2026-06-20T20:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068427584694538500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8UQT17Y3j",
+              "end": 60,
+              "expanded_url": "https://x.com/FalconsEsport/status/2068427584694538500/photo/1",
+              "media_key": "3_2068427520114827264",
+              "start": 37,
+              "url": "https://t.co/N8UQT17Y3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068427584694538500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19307,
+          "like_count": 643,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "WALLAHI I CANT DO THIS ANYMOREEEEEEE https://t.co/N8UQT17Y3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | OVERALCOHOL SAIKOU!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066928123523051520/E5ku9piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 202,
+          "like_count": 6808,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T16:38:19.000Z",
+        "description": "2x Esports World Cup Champions 🏆 | Your No.1 Spot for everything Falcons Esports. @TeamFalconsGG @Riyadh_Falcons Sponsored by @NEO_SA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "TeamFalconsGG"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "Riyadh_Falcons"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "NEO_SA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TeamFalcons.sa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TeamFalcons.sa",
+                "start": 0,
+                "url": "https://t.co/YOLdnFAgTk"
+              }
+            ]
+          }
+        },
+        "id": "1329463960194723847",
+        "name": "Falcons Esports",
+        "pinned_tweet_id": "2068016233555911037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063308506649055232/eNepQHHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265168,
+          "following_count": 299,
+          "like_count": 3493,
+          "listed_count": 138,
+          "media_count": 11392,
+          "tweet_count": 15906
+        },
+        "url": "https://t.co/YOLdnFAgTk",
+        "username": "FalconsEsport",
+        "verified": true
+      }
+    ]
+  }
+}

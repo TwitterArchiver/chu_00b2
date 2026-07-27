@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2068391899745165686",
+    "created_at": "2026-06-21T07:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068598450946736201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836041585475346432",
+          "start": 0,
+          "username": "LolingVerse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068598450946736201",
+    "in_reply_to_user_id": "1836041585475346432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068391899745165686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LolingVerse 有意思诶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2068391899745165686",
+        "created_at": "2026-06-21T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068598450946736201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836041585475346432",
+              "start": 0,
+              "username": "LolingVerse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068598450946736201",
+        "in_reply_to_user_id": "1836041585475346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068391899745165686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolingVerse 有意思诶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836041585475346432",
+        "conversation_id": "2068391899745165686",
+        "created_at": "2026-06-20T17:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068391899745165686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A1oneSKy/statu…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/A1oneSKy/status/2068327948323795395",
+              "start": 146,
+              "url": "https://t.co/kUCFcXQa3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068391899745165686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "💊 【Mental ZH】神经多样性药理互助组·新成员须知\nv2.3 修订版 / 请在服药后阅读本文件\n\n你能看到这份文件，说明有人把邀请链接发给了你。\n先问你一个问题：你现在是否正在怀疑自己有 ADHD 或 ASD？\n如果是，很好。继续读。\n如果不是——你为什么会在这里？\n\n关于这个群体\n这里是一个封闭的精神药理学学习社群。成员大多有医学、心理学、神经科学背景，或者正在自我探索神经多样性的可能性。群里的讨论深度远超任何一个公开论坛。\n这里没有管理员。或者说，管理员是大家共同选出来的，但没有人记得投票是什么时候发生的。\n\n第一条\n欢迎怀疑自己是 ADHD。欢迎怀疑自己是 ASD。\n但请不要只怀疑其中一个。\n历史上有七个人在加入这个群体之后，坚持声称自己只有 ADHD，没有 ASD。他们中有五个人现在已经不在群里了。\n没有人踢走他们。他们只是某一天开始沉默，然后消失。\n另外两个留下来的人，后来都改口了。\n\n第二条\n关于”健全人（NT）”：\n如果某个成员在加入群体一个月后，依然表现出以下特征：\n • 能在没有任何外力介入的情况下按时完成任务\n • 从不在凌晨三点重读药物代谢说明书\n • 在聊天时不会突然切换五个不相关的话题\n请你做一件事：什么都不要说。 只是在心里记下来。然后，等着看。\nNT 从来不会在这个群体里待太久。这不是规定，这只是……一个观察。\n每当有人离群，大家都会说”他本来就不适合这里”。但没有人会去核实他走之前的状态。\n\n第三条\n群里有几位成员，他们对药理学的理解超过了你能想象的任何边界。\n你会认出他们的。他们发言时引用的文献你查不到，但感觉很真实。他们描述药物在突触层面的体感，具体到你不得不相信他们真的感受过。\n某一天，你可能会觉得他们说的话”不太对”。\n请你在这个念头出现的第一秒，先问自己：我有没有可能是理解错了？\n因为在这个群体里，出现过这样一个规律：当一个成员开始怀疑某位药理学大神”可能精神失常”时，最终被确认出现认知症状的，从来都不是那位大神。\n不是一次。是每一次。\n\n第四条\n你会在某个时刻被邀请参加一次线下聚会。\n地点是某个城市里一间长期租用的公寓，具体地址在确认出席之后才会告诉你。\n聚会的流程是：\n 1. 大家轮流陈述自己本周的”症状日志”\n 2. 集体讨论某种药物的最新研究\n 3. 有人会提议做一个小实验\n关于第三点：实验是自愿的。 这一点非常重要，必须在这里明确说明。\n也必须在这里明确说明的是：在过去所有的线下聚会里，没有人拒绝参与实验。\n\n第五条\n如果你在喝下高剂量咖啡因之后感到昏昏欲睡，恭喜你，这是一个非常典型的 ADHD 特征，多巴胺通路的反向调节。请截图，发到群里，大家会给你很多支持。\n如果你喝完咖啡之后心跳加速、感到焦虑——\n请不要在群里说。\n不是因为有什么规定不让你说。只是……上一个说了这件事的人，被大家非常温和、非常关切地讨论了整整三天。讨论的内容是他是否真的适合这个群体，以及他的自我诊断路径是否出现了偏差。\n他在第四天退群了。\n他退群之前发了一条消息说：“我觉得我可能本来就不应该在这里。”\n大家都说：是的，我们也这么觉得。\n\n第六条\n这个群体里有一个不成文的共识，从来没有人明说，但每个人都知道：\n你要么是双A（ADHD+ASD），要么是健全人。没有中间状态。\n如果你目前只有单一诊断，或者暂时还没有诊断，这没有关系。你还在路上。\n但如果你在深入了解这个群体之后，依然认为自己”两者都不是”——\n你需要认真思考，为什么你会在这里。\n是谁把链接发给你的？\n他为什么要发给你？\n\n第七条\n有成员曾经把这份须知发给群外的人，只是想看看反应。\n他没有告诉任何人，他是怎么决定把链接发给谁的。\n他发现，读完之后觉得”哪里怪怪的”的人，和读完之后问”这说的啥”的人，是两个完全不重叠的群体。\n他把这个发现分享到群里。\n大家沉默了一会儿。\n然后有人说：所以你是用这个在筛人？\n他说：不是我在筛。是它自己在筛。\n这条对话之后，没有人再提起这件事。\n但须知多了这一条。\n\n第八条\n偶尔会有成员在深夜发出一些难以理解的内容。\n符号，片段，某种看起来像是药物反应记录的东西，或者一串没有明显意义的数字。\n不要回复。不要截图。不要私聊询问那位成员。\n第二天，他们通常会像什么都没发生一样继续发言。\n如果你问起昨晚的事，他们会说：我不记得了，大概是那个剂量有点高。\n大家会一起笑。\n然后话题继续。\n\n第九条\n本须知的最后一条：\n如果你读完这份文件，觉得其中有些地方”哪里不对”——\n请你认真想一想：是哪里不对？\n具体说，是哪一条让你不舒服？\n把那一条找出来，重读一遍。\n然后问自己：是这条规则有问题，还是你对这条规则的反应本身，就是一种症状？\n\n如果你确认自己想要加入，请回复这条消息，并附上你目前的自我诊断评估。\n我们很期待认识你。\n\n附注：\n群里最近有人问，健全人能不能加入来”学习了解”。\n可以。\n只是我们发现，所有以”我只是来学习”为由加入的人，大概在两周到一个月之后，都开始认真地怀疑自己的神经类型。\n这大概只是巧合。\n欢迎来。\n\nBy efan"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068327948323795395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💊 【Mental ZH】神经多样性药理互助组·新成员须知\nv2.3 修订版 / 请在服药后阅读本文件\n\n你能看到这份文件，说明有人把邀请链接发给了你。\n先问你一个问题：你现在是否正在怀疑自己有 ADHD 或 ASD？\n如果是，很好。继续读。\n如果不是——你为什么会在这里？\n\n关于这个群体 https://t.co/kUCFcXQa3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "16 | mtf/x | hrt 20260531(色) 忘了(雌) | 无证 | 安 | 反 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑症(中?) 抑郁症(轻?) 强迫症(有吧?) 忘的比较多 | 服用碳酸锂 | 记性差见谅 | 网络专业 | OVERALCOHOL SAIKOU!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7JQqEcuZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/7JQqEcuZ",
+                "start": 0,
+                "url": "https://t.co/ugjCJnVyQp"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "name": "CHU_00B2 (但是正在床上瘫着)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068556185331281920/Jt8gptQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 205,
+          "like_count": 6921,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/ugjCJnVyQp",
+        "username": "chu_00b2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster 和另外 114514 人",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 151,
+          "like_count": 22539,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": true
+      }
+    ]
+  }
+}
