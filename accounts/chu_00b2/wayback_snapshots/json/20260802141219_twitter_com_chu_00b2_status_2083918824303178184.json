@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083797832210034822",
+    "created_at": "2026-08-02T14:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083918824303178184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2306611420",
+          "start": 0,
+          "username": "ChenxiCxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918824303178184",
+    "in_reply_to_user_id": "2306611420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083797832210034822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenxiCxi 有的有的，互关互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083797832210034822",
+        "created_at": "2026-08-02T14:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083918824303178184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2306611420",
+              "start": 0,
+              "username": "ChenxiCxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918824303178184",
+        "in_reply_to_user_id": "2306611420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083797832210034822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenxiCxi 有的有的，互关互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2306611420",
+        "conversation_id": "2083797832210034822",
+        "created_at": "2026-08-02T06:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083797832210034822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083797832210034822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10781,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 90,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有没被我互关到的朋友吗，现在主页刷到互关贴，点进去全是已关注\n\n已经遇不到没关注的朋友了，咋整\n\n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 1076,
+          "like_count": 12795,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-26T22:52:24.000Z",
+        "description": "一颗小韭菜",
+        "id": "2306611420",
+        "location": "韭菜地",
+        "name": "陈西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684356601530970112/gwLrY6EO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 3682,
+          "like_count": 1816,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 3142
+        },
+        "url": "",
+        "username": "ChenxiCxi",
+        "verified": true
+      }
+    ]
+  }
+}

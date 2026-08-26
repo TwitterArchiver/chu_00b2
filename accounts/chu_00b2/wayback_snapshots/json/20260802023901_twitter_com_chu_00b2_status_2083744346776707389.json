@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083744346776707389",
+    "created_at": "2026-08-02T02:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083744346776707389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083744346776707389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 323,
+            "start": 320,
+            "tag": "AI"
+          },
+          {
+            "end": 340,
+            "start": 324,
+            "tag": "PublicRelations"
+          },
+          {
+            "end": 344,
+            "start": 341,
+            "tag": "PR"
+          },
+          {
+            "end": 359,
+            "start": 345,
+            "tag": "Communication"
+          }
+        ]
+      },
+      "text": "AI 正在重新定义公关行业。\n\n过去，公关的核心是信息的传播：\n找到受众、设计内容、建立信任。\n\n而在 AI 时代，传播逻辑正在发生变化。\n\nAI 不只是提高了内容生产效率，更改变了品牌与公众沟通的方式。\n\n从舆情监测，到用户洞察；从危机预警，到个性化传播策略，AI 正在成为公关人的新型“认知工具”。\n\n但技术永远无法替代真正的公关能力。\n\n因为公关的本质，从来不是制造信息，而是理解人。\n\n数据可以告诉我们趋势，模型可以生成内容，但只有人能够判断情绪、理解文化，并建立长期信任。\n\n未来优秀的公关从业者，或许不是最会使用 AI 的人，而是最懂得如何让 AI 服务于人类沟通的人。\n\nAI 不是公关的终结，而是公关进入下一阶段的开始。\n\n#AI #PublicRelations #PR #Communication"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AI 正在重新定义公关行业。\n\n过去，公关的核心是信息的传播：\n找到受众、设计内容、建立信任。\n\n而在 AI 时代，传播逻辑正在发生变化。\n\nAI 不只是提高了内容生产效率，更改变了品牌与公众沟通的方式。\n\n从舆情监测，到用户洞察；从危机预警，到个性化传播策略，AI 正在成为公关人的新型“认知工具”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083744346776707389",
+        "created_at": "2026-08-02T02:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083744346776707389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083744346776707389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 323,
+                "start": 320,
+                "tag": "AI"
+              },
+              {
+                "end": 340,
+                "start": 324,
+                "tag": "PublicRelations"
+              },
+              {
+                "end": 344,
+                "start": 341,
+                "tag": "PR"
+              },
+              {
+                "end": 359,
+                "start": 345,
+                "tag": "Communication"
+              }
+            ]
+          },
+          "text": "AI 正在重新定义公关行业。\n\n过去，公关的核心是信息的传播：\n找到受众、设计内容、建立信任。\n\n而在 AI 时代，传播逻辑正在发生变化。\n\nAI 不只是提高了内容生产效率，更改变了品牌与公众沟通的方式。\n\n从舆情监测，到用户洞察；从危机预警，到个性化传播策略，AI 正在成为公关人的新型“认知工具”。\n\n但技术永远无法替代真正的公关能力。\n\n因为公关的本质，从来不是制造信息，而是理解人。\n\n数据可以告诉我们趋势，模型可以生成内容，但只有人能够判断情绪、理解文化，并建立长期信任。\n\n未来优秀的公关从业者，或许不是最会使用 AI 的人，而是最懂得如何让 AI 服务于人类沟通的人。\n\nAI 不是公关的终结，而是公关进入下一阶段的开始。\n\n#AI #PublicRelations #PR #Communication"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI 正在重新定义公关行业。\n\n过去，公关的核心是信息的传播：\n找到受众、设计内容、建立信任。\n\n而在 AI 时代，传播逻辑正在发生变化。\n\nAI 不只是提高了内容生产效率，更改变了品牌与公众沟通的方式。\n\n从舆情监测，到用户洞察；从危机预警，到个性化传播策略，AI 正在成为公关人的新型“认知工具”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 923,
+          "like_count": 12769,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

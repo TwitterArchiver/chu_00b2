@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083916401920876869",
+    "created_at": "2026-08-02T14:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083918667574890723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918667574890723",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083916401920876869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky 惊恐发作？去医院看看吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083916401920876869",
+        "created_at": "2026-08-02T14:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083918667574890723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918667574890723",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083916401920876869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 惊恐发作？去医院看看吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083916401920876869",
+        "created_at": "2026-08-02T14:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083916401920876869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083916401920876869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "剛剛吃完晚餐在吃水果，吃到一半感覺不舒服，回到房間沒多久，身體開始發抖的同時精神感到非常慌張，我第一反應是很怕又要再經歷一次，我決定收拾我的房間，收拾完還是很慌，然後我去整理了明天要用的東西，整理完回到房間後，症狀沒有緩解，甚至身體從抖動變抽動，\n我決定去洗澡，但我在前往浴室的路上需要扶著牆才能走路，在洗澡的時候我需要命令我的身體，身體才能做出動作，剛開始洗沒多久就因為身體沒力氣差點摔倒，扶著牆慢慢坐到地上的同時呼吸變得急促，緩和一點後我就命令身體繼續洗，洗完擦乾身體後才慢慢感覺我的身體和意識重新連接上了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剛剛吃完晚餐在吃水果，吃到一半感覺不舒服，回到房間沒多久，身體開始發抖的同時精神感到非常慌張，我第一反應是很怕又要再經歷一次，我決定收拾我的房間，收拾完還是很慌，然後我去整理了明天要用的東西，整理完回到房間後，症狀沒有緩解，甚至身體從抖動變抽動，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 1075,
+          "like_count": 12795,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx/貓/友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 2124,
+          "like_count": 66466,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4492
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083720794803503450",
+    "created_at": "2026-08-02T10:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083856049589895415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "571539711",
+          "start": 0,
+          "username": "BTCbangzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083856049589895415",
+    "in_reply_to_user_id": "571539711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083720794803503450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTCbangzhu 来了，支持一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2083720782199554048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrdAuoagAABdRJ.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083720794803503450",
+        "created_at": "2026-08-02T10:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083856049589895415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "571539711",
+              "start": 0,
+              "username": "BTCbangzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083856049589895415",
+        "in_reply_to_user_id": "571539711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083720794803503450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTCbangzhu 来了，支持一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083720782199554048"
+          ]
+        },
+        "author_id": "571539711",
+        "conversation_id": "2083720794803503450",
+        "created_at": "2026-08-02T01:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083720794803503450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7yRVvN3Rq",
+              "end": 58,
+              "expanded_url": "https://x.com/BTCbangzhu/status/2083720794803503450/photo/1",
+              "media_key": "3_2083720782199554048",
+              "start": 35,
+              "url": "https://t.co/x7yRVvN3Rq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083720794803503450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13163,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关4600位兄弟\n\n实际互动点赞的不超40位\n\n互关的意义在哪呢？ https://t.co/x7yRVvN3Rq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1041,
+          "like_count": 12776,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-05T05:03:21.000Z",
+        "description": "#BNB 持有者 | 用最简单的方式带大家了解币圈 | 拥抱币安，3亿用户的选择 #Binance https://t.co/nOBLODX2F4 所发推文无投资建议，看着玩，别研究。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/zh-CN/register…",
+                "end": 73,
+                "expanded_url": "https://accounts.binance.com/zh-CN/register?ref=XUC9XYW1",
+                "start": 50,
+                "url": "https://t.co/nOBLODX2F4"
+              }
+            ]
+          }
+        },
+        "id": "571539711",
+        "location": "Singaparna",
+        "name": "乔帮主",
+        "pinned_tweet_id": "2021401651383501209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849512019537625088/3ni-jg1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32957,
+          "following_count": 4594,
+          "like_count": 17654,
+          "listed_count": 72,
+          "media_count": 739,
+          "tweet_count": 13042
+        },
+        "url": "",
+        "username": "BTCbangzhu",
+        "verified": true
+      }
+    ]
+  }
+}

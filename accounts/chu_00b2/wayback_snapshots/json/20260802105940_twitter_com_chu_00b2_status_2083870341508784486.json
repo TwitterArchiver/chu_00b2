@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083825369380200677",
+    "created_at": "2026-08-02T10:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083870341508784486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1938623735889907712",
+          "start": 0,
+          "username": "0xChaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083870341508784486",
+    "in_reply_to_user_id": "1938623735889907712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083825369380200677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xChaoer 必须阔以哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2083824785642102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs7mhpaIAAZKXH.png",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083825369380200677",
+        "created_at": "2026-08-02T10:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083870341508784486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1938623735889907712",
+              "start": 0,
+              "username": "0xChaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870341508784486",
+        "in_reply_to_user_id": "1938623735889907712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083825369380200677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xChaoer 必须阔以哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083824785642102784"
+          ]
+        },
+        "author_id": "1938623735889907712",
+        "conversation_id": "2083825369380200677",
+        "created_at": "2026-08-02T08:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083825369380200677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "敬个礼啊握握手"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvGSnal7AO",
+              "end": 90,
+              "expanded_url": "https://x.com/0xChaoer/status/2083825369380200677/photo/1",
+              "media_key": "3_2083824785642102784",
+              "start": 67,
+              "url": "https://t.co/bvGSnal7AO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083825369380200677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能坚持90天的话\n粉丝能破万\n流量也能过500W门槛\n可是这可能吗？\n\n#敬个礼啊握握手 幼儿园都学过这首歌吧，明白我的意思吗？ https://t.co/bvGSnal7AO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 1051,
+          "like_count": 12780,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T15:41:45.000Z",
+        "description": "丨二级运动员、二级建造师丨文武双全\n丨奶爸丨屯大饼给女儿当嫁妆\n丨前网咖业主丨被口罩击毙\n丨链游受害者丨飞船已坠毁\n丨撸毛从业者丨Fuck Monad\n丨向上社交低能儿丨挑战困难模式副本\n丨梦想丨A8退休\n丨褪去浮躁,寻求Peace丨向各位老师们谦虚学习",
+        "id": "1938623735889907712",
+        "location": "森林，小溪",
+        "name": "小森啊🍊|Bird🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029573086329327616/KAhudswt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2946,
+          "following_count": 2845,
+          "like_count": 3613,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 2321
+        },
+        "url": "",
+        "username": "0xChaoer",
+        "verified": true
+      }
+    ]
+  }
+}

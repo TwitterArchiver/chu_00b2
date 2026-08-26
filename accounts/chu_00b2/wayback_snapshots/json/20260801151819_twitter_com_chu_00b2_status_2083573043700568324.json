@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083380880509395136",
+    "created_at": "2026-08-01T15:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083573043700568324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815446350332624896",
+          "start": 0,
+          "username": "LD7777BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083573043700568324",
+    "in_reply_to_user_id": "1815446350332624896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083380880509395136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LD7777BTC 一起加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2083380873362366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmn3bibYAAZ_fb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083380880509395136",
+        "created_at": "2026-08-01T15:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083573043700568324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815446350332624896",
+              "start": 0,
+              "username": "LD7777BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083573043700568324",
+        "in_reply_to_user_id": "1815446350332624896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083380880509395136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LD7777BTC 一起加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083380873362366464"
+          ]
+        },
+        "author_id": "1815446350332624896",
+        "conversation_id": "2083380880509395136",
+        "created_at": "2026-08-01T02:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083380880509395136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "蓝V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFidXAcOTn",
+              "end": 75,
+              "expanded_url": "https://x.com/LD7777BTC/status/2083380880509395136/photo/1",
+              "media_key": "3_2083380873362366464",
+              "start": 52,
+              "url": "https://t.co/oFidXAcOTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083380880509395136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天能突破1500吗，\n\n坚信朋友越多，路走得越宽！\n\n交个朋友，\n\n寻找知己，\n\n走个面儿，\n#蓝V https://t.co/oFidXAcOTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 731,
+          "like_count": 12715,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T17:58:44.000Z",
+        "description": "男德学院荣誉会长\n王阳明知行合一理论者\n加密/美股/双修\n#BNB #币安返佣链接https://t.co/egsv6Wtbya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsmkweb.cc/zh-CN/join?ref…",
+                "end": 64,
+                "expanded_url": "https://www.bsmkweb.cc/zh-CN/join?ref=B77777",
+                "start": 41,
+                "url": "https://t.co/egsv6Wtbya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bn777.com",
+                "end": 23,
+                "expanded_url": "http://bn777.com",
+                "start": 0,
+                "url": "https://t.co/exmL1qM9sL"
+              }
+            ]
+          }
+        },
+        "id": "1815446350332624896",
+        "location": "进社区加vx Acrypto777",
+        "name": "crypto- LD",
+        "pinned_tweet_id": "1916180392769688031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983397416322867200/a3i64RD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 301,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/exmL1qM9sL",
+        "username": "LD7777BTC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083353141874221086",
+    "created_at": "2026-08-01T01:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083369699203752217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1740549437402013696",
+          "start": 0,
+          "username": "HanPaoao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083369699203752217",
+    "in_reply_to_user_id": "1740549437402013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083353141874221086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanPaoao 厉害哇！开了蓝v就是想像这样一样哇！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2083353134970372096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmOo1-bAAA5V_l.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083353141874221086",
+        "created_at": "2026-08-01T01:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083369699203752217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1740549437402013696",
+              "start": 0,
+              "username": "HanPaoao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083369699203752217",
+        "in_reply_to_user_id": "1740549437402013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083353141874221086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanPaoao 厉害哇！开了蓝v就是想像这样一样哇！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083353134970372096"
+          ]
+        },
+        "author_id": "1740549437402013696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083353141874221086",
+        "created_at": "2026-08-01T00:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083353141874221086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWueZuGBLe",
+              "end": 72,
+              "expanded_url": "https://x.com/HanPaoao/status/2083353141874221086/photo/1",
+              "media_key": "3_2083353134970372096",
+              "start": 49,
+              "url": "https://t.co/AWueZuGBLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083353141874221086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 939,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发工资了，两周1610刀，感谢马总，感谢x，牛马继续努力！！\n\n此贴grok抽3个10u，明天开 https://t.co/AWueZuGBLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 465,
+          "like_count": 12684,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T01:45:31.000Z",
+        "description": "不研究 K 线，只研究人性\n币圈 / 股市 / 搞钱 / 普通人翻身\n关注我，一起成长！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HanPaoao",
+                "end": 23,
+                "expanded_url": "https://t.me/HanPaoao",
+                "start": 0,
+                "url": "https://t.co/HKm3RGLEuf"
+              }
+            ]
+          }
+        },
+        "id": "1740549437402013696",
+        "location": "商务合作👉",
+        "name": "韩跑跑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964632323288387584/Rml_k_UJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41221,
+          "following_count": 1408,
+          "like_count": 13178,
+          "listed_count": 352,
+          "media_count": 3623,
+          "tweet_count": 17369
+        },
+        "url": "https://t.co/HKm3RGLEuf",
+        "username": "HanPaoao",
+        "verified": true
+      }
+    ]
+  }
+}

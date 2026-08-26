@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {
+      "title": "0.01克桃汁，和一瓶水里藏着的合法空子"
+    },
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083537381681230306",
+    "created_at": "2026-08-01T12:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083537381681230306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2083…",
+          "end": 44,
+          "expanded_url": "http://x.com/i/article/2083535010100088832",
+          "start": 21,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2083535010100088832",
+          "url": "https://t.co/EQqCsPeAid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083537381681230306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "0.01克桃汁，和一瓶水里藏着的合法空子 https://t.co/EQqCsPeAid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2083537265184387072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo2GoeasAAuguo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "0.01克桃汁，和一瓶水里藏着的合法空子"
+        },
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083537381681230306",
+        "created_at": "2026-08-01T12:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083537381681230306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 44,
+              "expanded_url": "http://x.com/i/article/2083535010100088832",
+              "start": 21,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2083535010100088832",
+              "url": "https://t.co/EQqCsPeAid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083537381681230306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.01克桃汁，和一瓶水里藏着的合法空子 https://t.co/EQqCsPeAid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 694,
+          "like_count": 12702,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

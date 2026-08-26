@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2083387600770105486",
+    "created_at": "2026-08-01T03:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083387600770105486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "949316104144457729",
+          "start": 3,
+          "username": "wangchangfu88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/TXia2",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/TXia2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083387600770105486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083343213994394013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangchangfu88: 这两周 X 创作收益 2626 美金\n\n感谢马克思，感谢大家的走面儿～\n\nGrok 抽 10 个和我交流最频繁的朋友\n\n三连此推，再 Grok 随机抽 5 个粉丝\n\n每人送一份星巴克下午茶，48 小时开 https://t.co/TXia2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8996,
+        "height": 2556,
+        "media_key": "13_2083343157555814400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083343157555814400/img/lzM7ru6jK3W_e9KH.jpg",
+        "public_metrics": {
+          "view_count": 2123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083343157555814400/vid/avc1/320x692/C2QqBm7Le4lhk77O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083343157555814400/pl/epob9KztHXl6zzrX.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083343157555814400/vid/avc1/1180x2556/abqbyDECf1YESAEO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083343157555814400/vid/avc1/720x1558/zsxK1Qd0kmA9zi6d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083343157555814400/vid/avc1/480x1038/7I1qcPKJbRTeavsA.mp4"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083387600770105486",
+        "created_at": "2026-08-01T03:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083387600770105486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "949316104144457729",
+              "start": 3,
+              "username": "wangchangfu88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/TXia2",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/TXia2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083387600770105486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083343213994394013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangchangfu88: 这两周 X 创作收益 2626 美金\n\n感谢马克思，感谢大家的走面儿～\n\nGrok 抽 10 个和我交流最频繁的朋友\n\n三连此推，再 Grok 随机抽 5 个粉丝\n\n每人送一份星巴克下午茶，48 小时开 https://t.co/TXia2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083343157555814400"
+          ]
+        },
+        "author_id": "949316104144457729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2083343213994394013",
+        "created_at": "2026-08-01T00:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083343213994394013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXia2jaXY1",
+              "end": 125,
+              "expanded_url": "https://x.com/wangchangfu88/status/2083343213994394013/video/1",
+              "media_key": "13_2083343157555814400",
+              "start": 102,
+              "url": "https://t.co/TXia2jaXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083343213994394013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6449,
+          "like_count": 118,
+          "quote_count": 5,
+          "reply_count": 188,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这两周 X 创作收益 2626 美金\n\n感谢马克思，感谢大家的走面儿～\n\nGrok 抽 10 个和我交流最频繁的朋友\n\n三连此推，再 Grok 随机抽 5 个粉丝\n\n每人送一份星巴克下午茶，48 小时开 https://t.co/TXia2jaXY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 521,
+          "like_count": 12684,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2083343213994394013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29227,
+          "following_count": 2983,
+          "like_count": 30107,
+          "listed_count": 106,
+          "media_count": 564,
+          "tweet_count": 43001
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

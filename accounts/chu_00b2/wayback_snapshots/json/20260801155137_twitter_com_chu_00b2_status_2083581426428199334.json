@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {
+      "title": "Meta要卖算力，寒武纪一天没了700亿"
+    },
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083581426428199334",
+    "created_at": "2026-08-01T15:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083581426428199334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2083…",
+          "end": 44,
+          "expanded_url": "http://x.com/i/article/2083580161254195200",
+          "start": 21,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2083580161254195200",
+          "url": "https://t.co/klI4ZrOMZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083581426428199334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Meta要卖算力，寒武纪一天没了700亿 https://t.co/klI4ZrOMZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2083581289949794304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpeJNgbkAAXsFM.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "Meta要卖算力，寒武纪一天没了700亿"
+        },
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083581426428199334",
+        "created_at": "2026-08-01T15:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083581426428199334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 44,
+              "expanded_url": "http://x.com/i/article/2083580161254195200",
+              "start": 21,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2083580161254195200",
+              "url": "https://t.co/klI4ZrOMZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083581426428199334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Meta要卖算力，寒武纪一天没了700亿 https://t.co/klI4ZrOMZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 736,
+          "like_count": 12717,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

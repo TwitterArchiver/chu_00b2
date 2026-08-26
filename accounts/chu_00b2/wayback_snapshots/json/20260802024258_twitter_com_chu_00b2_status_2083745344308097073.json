@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083745344308097073",
+    "created_at": "2026-08-02T02:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083745344308097073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083745344308097073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 411,
+            "start": 408,
+            "tag": "AI"
+          },
+          {
+            "end": 421,
+            "start": 412,
+            "tag": "DeepSeek"
+          },
+          {
+            "end": 425,
+            "start": 422,
+            "tag": "PR"
+          },
+          {
+            "end": 442,
+            "start": 426,
+            "tag": "PublicRelations"
+          }
+        ]
+      },
+      "text": "很多人关注 AI 的下一次突破，关注的是模型参数、推理能力和 benchmark。\n\n但 DeepSeek Harness 这类方向提醒我们：\n\n未来 AI 的竞争，可能不只发生在“大脑”层面。\n\n模型负责思考，而 Harness 负责让思考变成行动。\n\n一个优秀的 AI 系统，需要的不只是更聪明的模型，还需要：\n理解任务的能力、调用工具的能力、持续反馈的能力，以及在真实环境中解决问题的能力。\n\n这对公关行业同样重要。\n\n未来的 AI 公关，不会只是让模型帮我们写一篇新闻稿。\n\n而是让 AI 参与完整流程：\n\n分析舆情 → 判断风险 → 制定策略 → 生成内容 → 监测反馈 → 优化传播。\n\n真正改变行业的，不是 AI 替代某一个岗位，而是 AI 开始成为整个工作流的一部分。\n\n模型决定上限，Harness 决定落地。\n\nAI 时代，最重要的能力也许不是拥有一个更强的工具，而是设计人与工具协作的方法。\n\n#AI #DeepSeek #PR #PublicRelations"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人关注 AI 的下一次突破，关注的是模型参数、推理能力和 benchmark。\n\n但 DeepSeek Harness 这类方向提醒我们：\n\n未来 AI 的竞争，可能不只发生在“大脑”层面。\n\n模型负责思考，而 Harness 负责让思考变成行动。\n\n一个优秀的 AI 系统，需要的不只是更聪明的模型，还需要："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083745344308097073",
+        "created_at": "2026-08-02T02:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083745344308097073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083745344308097073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 411,
+                "start": 408,
+                "tag": "AI"
+              },
+              {
+                "end": 421,
+                "start": 412,
+                "tag": "DeepSeek"
+              },
+              {
+                "end": 425,
+                "start": 422,
+                "tag": "PR"
+              },
+              {
+                "end": 442,
+                "start": 426,
+                "tag": "PublicRelations"
+              }
+            ]
+          },
+          "text": "很多人关注 AI 的下一次突破，关注的是模型参数、推理能力和 benchmark。\n\n但 DeepSeek Harness 这类方向提醒我们：\n\n未来 AI 的竞争，可能不只发生在“大脑”层面。\n\n模型负责思考，而 Harness 负责让思考变成行动。\n\n一个优秀的 AI 系统，需要的不只是更聪明的模型，还需要：\n理解任务的能力、调用工具的能力、持续反馈的能力，以及在真实环境中解决问题的能力。\n\n这对公关行业同样重要。\n\n未来的 AI 公关，不会只是让模型帮我们写一篇新闻稿。\n\n而是让 AI 参与完整流程：\n\n分析舆情 → 判断风险 → 制定策略 → 生成内容 → 监测反馈 → 优化传播。\n\n真正改变行业的，不是 AI 替代某一个岗位，而是 AI 开始成为整个工作流的一部分。\n\n模型决定上限，Harness 决定落地。\n\nAI 时代，最重要的能力也许不是拥有一个更强的工具，而是设计人与工具协作的方法。\n\n#AI #DeepSeek #PR #PublicRelations"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人关注 AI 的下一次突破，关注的是模型参数、推理能力和 benchmark。\n\n但 DeepSeek Harness 这类方向提醒我们：\n\n未来 AI 的竞争，可能不只发生在“大脑”层面。\n\n模型负责思考，而 Harness 负责让思考变成行动。\n\n一个优秀的 AI 系统，需要的不只是更聪明的模型，还需要："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 924,
+          "like_count": 12770,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

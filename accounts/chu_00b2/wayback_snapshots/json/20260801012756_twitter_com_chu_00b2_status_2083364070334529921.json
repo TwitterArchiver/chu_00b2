@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083069580235428149",
+    "created_at": "2026-08-01T01:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083364070334529921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070525059668819968",
+          "start": 0,
+          "username": "WinterCelestate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083364070334529921",
+    "in_reply_to_user_id": "2070525059668819968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083069580235428149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinterCelestate 互关互关！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2083069574573142016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiMvdLbMAA9bBQ.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083069580235428149",
+        "created_at": "2026-08-01T01:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083364070334529921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070525059668819968",
+              "start": 0,
+              "username": "WinterCelestate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083364070334529921",
+        "in_reply_to_user_id": "2070525059668819968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083069580235428149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinterCelestate 互关互关！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083069574573142016"
+          ]
+        },
+        "author_id": "2070525059668819968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083069580235428149",
+        "created_at": "2026-07-31T05:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083069580235428149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "走个面"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVlVeZfStY",
+              "end": 62,
+              "expanded_url": "https://x.com/WinterCelestate/status/2083069580235428149/photo/1",
+              "media_key": "3_2083069574573142016",
+              "start": 39,
+              "url": "https://t.co/SVlVeZfStY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083069580235428149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1772,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 85,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点新蓝朋友\n交点新蓝宝宝\n \n本月最后一天，嗨起来，不要放弃。\n\n#走个面 https://t.co/SVlVeZfStY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 434,
+          "like_count": 12682,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T15:26:51.000Z",
+        "description": "🦂1995天蝎丨事业单位两年、银行两年（无编）\n📷专业人像摄影师丨风光摄影/人文纪实爱好者\n📻音频电台主播丨网易云音乐、猫耳FM、抖音\n🎉来到X丨不掺杂工作丨给自己放飞自我的空间",
+        "id": "2070525059668819968",
+        "name": "晨昏线外Lumin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079662129582653440/mz2HzQEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 2331,
+          "like_count": 1418,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 5583
+        },
+        "url": "",
+        "username": "WinterCelestate",
+        "verified": true
+      }
+    ]
+  }
+}

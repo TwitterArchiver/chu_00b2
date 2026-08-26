@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083561219915743422",
+    "created_at": "2026-08-01T16:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083584094580228230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071107632614768640",
+          "start": 0,
+          "username": "Wumism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083584094580228230",
+    "in_reply_to_user_id": "2071107632614768640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083561219915743422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wumism 走面走面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083561219915743422",
+        "created_at": "2026-08-01T16:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083584094580228230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071107632614768640",
+              "start": 0,
+              "username": "Wumism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083584094580228230",
+        "in_reply_to_user_id": "2071107632614768640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083561219915743422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wumism 走面走面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071107632614768640",
+        "conversation_id": "2083561219915743422",
+        "created_at": "2026-08-01T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083561219915743422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083561219915743422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来一波互关，认识点新朋友 #蓝V互关 \n\n我关注你会增加权重 😆 \n\n评论区留言我会回关你，交个朋友，走个面！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 740,
+          "like_count": 12717,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-28T06:27:17.000Z",
+        "description": "用人类千年的智慧（木），解构币圈无常的盘面。\n庚午烈马，九运启航。关注我，与智慧结晶（贵人）同行",
+        "id": "2071107632614768640",
+        "name": "绿袍羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073027183954759680/TabzDS5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 1811,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1281
+        },
+        "url": "",
+        "username": "Wumism",
+        "verified": true
+      }
+    ]
+  }
+}

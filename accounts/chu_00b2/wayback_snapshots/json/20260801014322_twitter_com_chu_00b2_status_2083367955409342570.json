@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083367937508061184"
+      ]
+    },
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083367955409342570",
+    "created_at": "2026-08-01T01:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083367955409342570"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 4,
+          "tag": "蓝v互关"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsZ6gZv1K5",
+          "end": 33,
+          "expanded_url": "https://x.com/chu_00b2/status/2083367955409342570/photo/1",
+          "media_key": "3_2083367937508061184",
+          "start": 10,
+          "url": "https://t.co/fsZ6gZv1K5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083367955409342570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在医院 #蓝v互关 https://t.co/fsZ6gZv1K5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083367937508061184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmcGdubMAA7s7K.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083367937508061184"
+          ]
+        },
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083367955409342570",
+        "created_at": "2026-08-01T01:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083367955409342570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsZ6gZv1K5",
+              "end": 33,
+              "expanded_url": "https://x.com/chu_00b2/status/2083367955409342570/photo/1",
+              "media_key": "3_2083367937508061184",
+              "start": 10,
+              "url": "https://t.co/fsZ6gZv1K5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083367955409342570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院 #蓝v互关 https://t.co/fsZ6gZv1K5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 451,
+          "like_count": 12683,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083744819034411379",
+    "created_at": "2026-08-02T02:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083746610149052722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040986206511800320",
+          "start": 0,
+          "username": "Yufgvvvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083746610149052722",
+    "in_reply_to_user_id": "2040986206511800320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083744819034411379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yufgvvvv 打算运营成日常号+公关+ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083744819034411379",
+        "created_at": "2026-08-02T02:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083746610149052722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040986206511800320",
+              "start": 0,
+              "username": "Yufgvvvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083746610149052722",
+        "in_reply_to_user_id": "2040986206511800320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083744819034411379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yufgvvvv 打算运营成日常号+公关+ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040986206511800320",
+        "conversation_id": "2083744819034411379",
+        "created_at": "2026-08-02T02:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083744819034411379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083744819034411379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 273,
+                "start": 268,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 279,
+                "start": 274,
+                "tag": "X新朋友"
+              },
+              {
+                "end": 285,
+                "start": 280,
+                "tag": "一起成长"
+              }
+            ]
+          },
+          "text": "📣 X 蓝V集合啦！\n\n看看今天能不能发现几个“隐藏宝藏账号”！\n\n很多时候，\n\n不是你的内容不好，\n\n只是还没有遇到对的人。\n\n有人刚开始运营，  \n有人已经坚持几年，  \n有人默默输出，等待被发现。\n\n所以今天：\n\n不看粉丝多少，  \n不看行业大小，\n\n只要你认真玩 X，\n\n愿意交流，愿意分享，\n\n评论区留下你的账号👇\n\n大家互关一下，\n\n给彼此增加一点曝光，\n\n也给坚持多一点动力。\n\n说不定，\n\n今天认识的陌生朋友，\n\n未来就是合作伙伴。\n\nX 的魅力就在这里：\n\n你永远不知道下一次互动，\n\n会遇见谁。\n\n来，走个面！🤝\n\n#蓝V互关 #X新朋友 #一起成长"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📣 X 蓝V集合啦！\n\n看看今天能不能发现几个“隐藏宝藏账号”！\n\n很多时候，\n\n不是你的内容不好，\n\n只是还没有遇到对的人。\n\n有人刚开始运营，  \n有人已经坚持几年，  \n有人默默输出，等待被发现。\n\n所以今天：\n\n不看粉丝多少，  \n不看行业大小，\n\n只要你认真玩 X，\n\n愿意交流，愿意分享，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 934,
+          "like_count": 12771,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T02:55:26.000Z",
+        "description": "AI时代的奔跑者",
+        "id": "2040986206511800320",
+        "name": "Felix Zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065046629745299456/a_I1A9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3835,
+          "following_count": 4081,
+          "like_count": 2864,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1803
+        },
+        "url": "",
+        "username": "Yufgvvvv",
+        "verified": true
+      }
+    ]
+  }
+}

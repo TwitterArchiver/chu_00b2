@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081445782537031680"
+      ]
+    },
+    "author_id": "1932043060550242304",
+    "conversation_id": "2081445790464241858",
+    "created_at": "2026-07-26T18:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081445790464241858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CFTsJbe5iQ",
+          "end": 30,
+          "expanded_url": "https://x.com/chu_00b2/status/2081445790464241858/photo/1",
+          "media_key": "3_2081445782537031680",
+          "start": 7,
+          "url": "https://t.co/CFTsJbe5iQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081445790464241858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mtf严选喵 https://t.co/CFTsJbe5iQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2081445782537031680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLH6Uda0AA5sBD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081445782537031680"
+          ]
+        },
+        "author_id": "1932043060550242304",
+        "conversation_id": "2081445790464241858",
+        "created_at": "2026-07-26T18:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081445790464241858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFTsJbe5iQ",
+              "end": 30,
+              "expanded_url": "https://x.com/chu_00b2/status/2081445790464241858/photo/1",
+              "media_key": "3_2081445782537031680",
+              "start": 7,
+              "url": "https://t.co/CFTsJbe5iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081445790464241858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtf严选喵 https://t.co/CFTsJbe5iQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1当前未 | 焦虑抑郁强迫 忘的比较多 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 头像随心情变化而变化 | 学网络的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2Xybr6D"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 406,
+          "like_count": 12450,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/BIx2Xybr6D",
+        "username": "chu_00b2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2088546986580664372",
+    "created_at": "2026-08-15T10:02:32.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088567007428104287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899289095794479104",
+          "start": 0,
+          "username": "zs1341110279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088567007428104287",
+    "in_reply_to_user_id": "1899289095794479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088546986580664372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zs1341110279 恭喜？好玄学的说，希望不是家长骗你的叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2088546986580664372",
+        "created_at": "2026-08-15T10:02:32.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088567007428104287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899289095794479104",
+              "start": 0,
+              "username": "zs1341110279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088567007428104287",
+        "in_reply_to_user_id": "1899289095794479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088546986580664372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zs1341110279 恭喜？好玄学的说，希望不是家长骗你的叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899289095794479104",
+        "conversation_id": "2088546986580664372",
+        "created_at": "2026-08-15T08:42:59.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088546986580664372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "mtf"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "xyn"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "小药娘"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "跨性别"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088546986580664372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈今天打来电话说\n她帮我去算命，算命先生说我这辈子都只有成为女人的命，无法逆转的\n所以我妈释怀了，她说会让我srs！？\n不是就这样莫名其妙的成家长党了啊\n我不行了…玄学立大功\n#mtf #xyn #小药娘 #跨性别"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2088567007428104287",
+        "name": "CHU_00B2",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1134,
+          "like_count": 12873,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn 2010/5/21 性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥 最爱的老婆：@feng_2955",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "feng_2955"
+              }
+            ]
+          }
+        },
+        "id": "1899289095794479104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088546986580664372",
+        "name": "ZS🧀cheese🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085743889269625111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899289095794479104/1741660974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 169,
+          "like_count": 172,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

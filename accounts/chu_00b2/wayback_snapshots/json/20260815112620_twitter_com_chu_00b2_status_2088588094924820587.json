@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2088506898480058564",
+    "created_at": "2026-08-15T11:26:20.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088588094924820587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2078519191129534465",
+          "start": 0,
+          "username": "0xChhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088588094924820587",
+    "in_reply_to_user_id": "2078519191129534465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088506898480058564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xChhh 恭喜恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088506891878158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvd8-laUAAjKtl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2088506898480058564",
+        "created_at": "2026-08-15T11:26:20.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088588094924820587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2078519191129534465",
+              "start": 0,
+              "username": "0xChhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088588094924820587",
+        "in_reply_to_user_id": "2078519191129534465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088506898480058564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xChhh 恭喜恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088506891878158336"
+          ]
+        },
+        "author_id": "2078519191129534465",
+        "conversation_id": "2088506898480058564",
+        "created_at": "2026-08-15T06:03:41.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088506898480058564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5utmMbIe1d",
+              "end": 53,
+              "expanded_url": "https://x.com/0xChhh/status/2088506898480058564/photo/1",
+              "media_key": "3_2088506891878158336",
+              "start": 30,
+              "url": "https://t.co/5utmMbIe1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088506898480058564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088506891878158336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1011,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下，历时一周\n\n终于突破4000\n\n争取早日突破1w https://t.co/5utmMbIe1d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2088588094924820587",
+        "name": "CHU_00B2",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1157,
+          "like_count": 12884,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T16:37:10.000Z",
+        "description": "美式爱好者｜codex启动\n加密拾荒者｜AI重度玩家\n浇个盆友",
+        "id": "2078519191129534465",
+        "is_identity_verified": false,
+        "location": "世界和平",
+        "most_recent_tweet_id": "2088588063895421024",
+        "name": "0xC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078519191129534465/1784392761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078519864793419777/Frv6kK8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 4578,
+          "like_count": 1981,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2019
+        },
+        "url": "",
+        "username": "0xChhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

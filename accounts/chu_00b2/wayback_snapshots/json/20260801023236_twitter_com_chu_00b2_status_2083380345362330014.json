@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083375792088928502",
+    "created_at": "2026-08-01T02:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083380345362330014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1651506647775469572",
+          "start": 0,
+          "username": "cryptoLive001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083380345362330014",
+    "in_reply_to_user_id": "1651506647775469572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083379927651590494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptoLive001 谢谢鼓励喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083375792088928502",
+        "created_at": "2026-08-01T02:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083380345362330014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1651506647775469572",
+              "start": 0,
+              "username": "cryptoLive001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083380345362330014",
+        "in_reply_to_user_id": "1651506647775469572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083379927651590494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptoLive001 谢谢鼓励喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651506647775469572",
+        "conversation_id": "2083375792088928502",
+        "created_at": "2026-08-01T02:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083379927651590494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083379927651590494",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083375792088928502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 加油，坚持输出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 504,
+          "like_count": 12685,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-27T08:41:10.000Z",
+        "description": "211硕士 | 前大厂逃兵 | Web3开发者 | Vide Coding，代币工具箱: https://t.co/sqobmbZNpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tokentool.org",
+                "end": 68,
+                "expanded_url": "http://tokentool.org",
+                "start": 45,
+                "url": "https://t.co/sqobmbZNpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shuju7999",
+                "end": 23,
+                "expanded_url": "https://t.me/shuju7999",
+                "start": 0,
+                "url": "https://t.co/Gm01morx8O"
+              }
+            ]
+          }
+        },
+        "id": "1651506647775469572",
+        "location": "全行业用户数据 →",
+        "name": "加密人生",
+        "pinned_tweet_id": "1960314565029470526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068318360576962560/cWYZsWov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8668,
+          "following_count": 6168,
+          "like_count": 5430,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 3674
+        },
+        "url": "https://t.co/Gm01morx8O",
+        "username": "cryptoLive001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083833027915096346",
+    "created_at": "2026-08-02T14:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083918998534762990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1180564830790373377",
+          "start": 0,
+          "username": "zhc0503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918998534762990",
+    "in_reply_to_user_id": "1180564830790373377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083833027915096346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhc0503 愿望成真！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083833027915096346",
+        "created_at": "2026-08-02T14:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083918998534762990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1180564830790373377",
+              "start": 0,
+              "username": "zhc0503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918998534762990",
+        "in_reply_to_user_id": "1180564830790373377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083833027915096346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhc0503 愿望成真！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180564830790373377",
+        "conversation_id": "2083833027915096346",
+        "created_at": "2026-08-02T08:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083833027915096346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083833027915096346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2294,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 102,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来许愿啦！\n\n想要 10,000 个好朋友，\n\n最最好的那种噢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 1076,
+          "like_count": 12795,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T19:26:15.000Z",
+        "description": "期指交易员，擅长波动套利、周期交易。\n日常分享实盘思考，欢迎交流探讨。",
+        "id": "1180564830790373377",
+        "location": "HKSAR",
+        "name": "喵大人",
+        "pinned_tweet_id": "2081358816172802146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019093111801339905/fG2Fknuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4885,
+          "following_count": 5141,
+          "like_count": 485,
+          "listed_count": 5,
+          "media_count": 250,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "zhc0503",
+        "verified": true
+      }
+    ]
+  }
+}

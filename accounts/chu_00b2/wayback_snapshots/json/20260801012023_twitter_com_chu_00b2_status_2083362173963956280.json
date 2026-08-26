@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2082627448043368957",
+    "created_at": "2026-08-01T01:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083362173963956280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817527249907892224",
+          "start": 0,
+          "username": "furan86999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083362173963956280",
+    "in_reply_to_user_id": "1817527249907892224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082627448043368957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furan86999 好呀好呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2082627343995252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOb6iP5aMAAe3_f.png",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2082627448043368957",
+        "created_at": "2026-08-01T01:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083362173963956280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817527249907892224",
+              "start": 0,
+              "username": "furan86999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083362173963956280",
+        "in_reply_to_user_id": "1817527249907892224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082627448043368957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furan86999 好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082627343995252736"
+          ]
+        },
+        "author_id": "1817527249907892224",
+        "conversation_id": "2082627448043368957",
+        "created_at": "2026-07-30T00:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082627448043368957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "蓝V"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "交个朋友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3CYeCbIzR",
+              "end": 113,
+              "expanded_url": "https://x.com/furan86999/status/2082627448043368957/photo/1",
+              "media_key": "3_2082627343995252736",
+              "start": 90,
+              "url": "https://t.co/q3CYeCbIzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082627448043368957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27578,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 317,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来呀!互关呀！ #蓝V互关 ！          \n\n只要你是 #蓝V ！ 不管粉丝多少 不管你是干啥滴！          \n\n评论区留言统统互关 关上就永不取消的！#交个朋友 https://t.co/q3CYeCbIzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 425,
+          "like_count": 12678,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T11:47:28.000Z",
+        "description": "币安 火币 Gate Bitget 认证创作者。一级二级投研。币安永久超级返佣邀请码:FURAN86999 。 WEEX大使 邀请码 ba3p 。发的所有贴子，不是投资建议。交流群：https://t.co/GA3Bg4UFtZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kaiershequ",
+                "end": 114,
+                "expanded_url": "https://t.me/kaiershequ",
+                "start": 91,
+                "url": "https://t.co/GA3Bg4UFtZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furan86999",
+                "end": 23,
+                "expanded_url": "https://t.me/furan86999",
+                "start": 0,
+                "url": "https://t.co/bOUmpnxI6y"
+              }
+            ]
+          }
+        },
+        "id": "1817527249907892224",
+        "location": "商务合作DM👉",
+        "name": "furan 上Gate玩事件合约",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849848274473426944/K0RuI9mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43127,
+          "following_count": 12494,
+          "like_count": 197727,
+          "listed_count": 61,
+          "media_count": 1032,
+          "tweet_count": 187340
+        },
+        "url": "https://t.co/bOUmpnxI6y",
+        "username": "furan86999",
+        "verified": true
+      }
+    ]
+  }
+}

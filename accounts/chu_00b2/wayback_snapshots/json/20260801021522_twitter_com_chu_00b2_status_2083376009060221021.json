@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083367955409342570",
+    "created_at": "2026-08-01T02:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083376009060221021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625723179011563520",
+          "start": 0,
+          "username": "yyng22828989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083376009060221021",
+    "in_reply_to_user_id": "1625723179011563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083375545879003230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyng22828989 hhh其实是我自己的问题啦，吞药进来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083367955409342570",
+        "created_at": "2026-08-01T02:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083376009060221021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625723179011563520",
+              "start": 0,
+              "username": "yyng22828989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083376009060221021",
+        "in_reply_to_user_id": "1625723179011563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083375545879003230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyng22828989 hhh其实是我自己的问题啦，吞药进来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625723179011563520",
+        "conversation_id": "2083367955409342570",
+        "created_at": "2026-08-01T02:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083375545879003230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083375545879003230",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083367955409342570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 这个必须为你的敬业 👍👍👍😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 491,
+          "like_count": 12684,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-15T05:06:41.000Z",
+        "description": "Looking for friends worldwide.\nTell me where you're from and one thing I should know about your country.\nBonus points if it's weird.",
+        "id": "1625723179011563520",
+        "name": "yyooooyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695383876498300928/hDscY0t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3059,
+          "following_count": 3227,
+          "like_count": 2595,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "yyng22828989",
+        "verified": true
+      }
+    ]
+  }
+}

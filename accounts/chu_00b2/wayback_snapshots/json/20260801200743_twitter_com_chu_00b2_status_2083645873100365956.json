@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083571021848912363",
+    "created_at": "2026-08-01T20:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083645873100365956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899289095794479104",
+          "start": 0,
+          "username": "zs1341110279"
+        },
+        {
+          "end": 25,
+          "id": "2033116026410598400",
+          "start": 14,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083645873100365956",
+    "in_reply_to_user_id": "1899289095794479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083644787035615732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zs1341110279 @Irosas_xyn 甜甜的没那么辣的芥末，还是挺好吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083571021848912363",
+        "created_at": "2026-08-01T20:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083645873100365956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899289095794479104",
+              "start": 0,
+              "username": "zs1341110279"
+            },
+            {
+              "end": 25,
+              "id": "2033116026410598400",
+              "start": 14,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083645873100365956",
+        "in_reply_to_user_id": "1899289095794479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083644787035615732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zs1341110279 @Irosas_xyn 甜甜的没那么辣的芥末，还是挺好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899289095794479104",
+        "conversation_id": "2083571021848912363",
+        "created_at": "2026-08-01T20:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083644787035615732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083644787035615732",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083571021848912363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 山葵酱我想吃，还没尝过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 808,
+          "like_count": 12747,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn 2010/5/21 性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥 最爱的老婆：@feng_2955",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "feng_2955"
+              }
+            ]
+          }
+        },
+        "id": "1899289095794479104",
+        "name": "ZS🧀cheese🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2080732209745739867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 137,
+          "like_count": 149,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\n同类会回fo大部分喵\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 130,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 107,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 154,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 131,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 374,
+          "like_count": 1173,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

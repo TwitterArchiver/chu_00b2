@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2089400254655508701",
+    "created_at": "2026-08-18T10:21:02.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089658825792184341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2086509977452294145",
+          "start": 0,
+          "username": "lmyy0211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089658825792184341",
+    "in_reply_to_user_id": "2086509977452294145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089400254655508701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmyy0211 qmd氯硝和克龄蒙！强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089400236779446272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8KcfrbIAAujqR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2089400254655508701",
+        "created_at": "2026-08-18T10:21:02.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089658825792184341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2086509977452294145",
+              "start": 0,
+              "username": "lmyy0211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089658825792184341",
+        "in_reply_to_user_id": "2086509977452294145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089400254655508701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmyy0211 qmd氯硝和克龄蒙！强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089400236779446272"
+          ]
+        },
+        "author_id": "2086509977452294145",
+        "conversation_id": "2089400254655508701",
+        "created_at": "2026-08-17T17:13:34.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089400254655508701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "药娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGPQVmBM4Y",
+              "end": 55,
+              "expanded_url": "https://x.com/lmyy0211/status/2089400254655508701/photo/1",
+              "media_key": "3_2089400236779446272",
+              "start": 32,
+              "url": "https://t.co/JGPQVmBM4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089400254655508701",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089400236779446272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1535,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院刷新出小药娘\n#mtf #男娘 #药娘 #伪娘 #mtf https://t.co/JGPQVmBM4Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2089658825792184341",
+        "name": "CHU_00B2",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1227,
+          "like_count": 12904,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T17:51:58.000Z",
+        "description": "狸梦音云是05年出厂的小笨蛋🍥糖果店https://t.co/QfQEZvGlGD🍥最崇拜的偶像是牧鸢🍥真心爱着每一个宝宝",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+tpEfzPJOVEZmM…",
+                "end": 41,
+                "expanded_url": "https://t.me/+tpEfzPJOVEZmMjdl",
+                "start": 18,
+                "url": "https://t.co/QfQEZvGlGD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tpEfzPJOVEZmM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tpEfzPJOVEZmMjdl",
+                "start": 0,
+                "url": "https://t.co/QfQEZvGlGD"
+              }
+            ]
+          }
+        },
+        "id": "2086509977452294145",
+        "is_identity_verified": false,
+        "location": "廣東梅州",
+        "most_recent_tweet_id": "2089523970332905694",
+        "name": "音云🍥三代目｜🍬商",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086509977452294145/1786299211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086512765519405056/1hddXPST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/QfQEZvGlGD",
+        "username": "lmyy0211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

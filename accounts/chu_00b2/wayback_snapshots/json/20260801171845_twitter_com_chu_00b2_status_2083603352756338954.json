@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083539662900191662",
+    "created_at": "2026-08-01T17:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083603352756338954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        },
+        {
+          "end": 17,
+          "id": "2063266311254552576",
+          "start": 10,
+          "username": "17nuun"
+        },
+        {
+          "end": 30,
+          "id": "1936734457773617152",
+          "start": 18,
+          "username": "xiaonuoXn17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083603352756338954",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083597438624182278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc @17nuun @xiaonuoXn17 我也不是很正常的啦，问题的话没人能知道的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083539662900191662",
+        "created_at": "2026-08-01T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083603352756338954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            },
+            {
+              "end": 17,
+              "id": "2063266311254552576",
+              "start": 10,
+              "username": "17nuun"
+            },
+            {
+              "end": 30,
+              "id": "1936734457773617152",
+              "start": 18,
+              "username": "xiaonuoXn17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083603352756338954",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083597438624182278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc @17nuun @xiaonuoXn17 我也不是很正常的啦，问题的话没人能知道的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374724817119772674",
+        "conversation_id": "2083539662900191662",
+        "created_at": "2026-08-01T16:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083597438624182278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            },
+            {
+              "end": 17,
+              "id": "2063266311254552576",
+              "start": 10,
+              "username": "17nuun"
+            },
+            {
+              "end": 32,
+              "id": "1936734457773617152",
+              "start": 20,
+              "username": "xiaonuoXn17"
+            },
+            {
+              "end": 58,
+              "id": "1936734457773617152",
+              "start": 46,
+              "username": "xiaonuoXn17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083597438624182278",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "1936734457773617152",
+                "start": 2,
+                "username": "xiaonuoXn17"
+              },
+              {
+                "end": 40,
+                "id": "1936734457773617152",
+                "start": 28,
+                "username": "xiaonuoXn17"
+              }
+            ]
+          },
+          "text": "可 @xiaonuoXn17 是精分……似乎问题真的在 @xiaonuoXn17 身上……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083561303847887191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 @17nuun 可 @xiaonuoXn17 是精分……似乎问题真的在 @xiaonuoXn17 身上……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 781,
+          "like_count": 12732,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2076946406989066441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 228,
+          "like_count": 2371,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 1323
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 232,
+          "like_count": 1198,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T10:34:27.000Z",
+        "description": "/坐标上海/187/65/缺爱/\n双向/可以把我当树洞哦喵~/无主/\nxyn/有证hrt/小证/",
+        "id": "1936734457773617152",
+        "location": "xyn",
+        "name": "魈诺Xn🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060376813722062848/gdNHx3Jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 29,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "xiaonuoXn17",
+        "verified": false
+      }
+    ]
+  }
+}

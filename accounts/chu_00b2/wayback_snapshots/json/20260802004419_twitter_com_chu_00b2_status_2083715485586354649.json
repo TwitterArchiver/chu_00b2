@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {
+      "title": "同事每天带走五斤水，公司已经输了"
+    },
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083715485586354649",
+    "created_at": "2026-08-02T00:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083715485586354649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2083…",
+          "end": 40,
+          "expanded_url": "http://x.com/i/article/2083715265871872000",
+          "start": 17,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2083715265871872000",
+          "url": "https://t.co/mKISYRYYsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083715485586354649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同事每天带走五斤水，公司已经输了 https://t.co/mKISYRYYsm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "title": "同事每天带走五斤水，公司已经输了"
+        },
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083715485586354649",
+        "created_at": "2026-08-02T00:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083715485586354649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 40,
+              "expanded_url": "http://x.com/i/article/2083715265871872000",
+              "start": 17,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2083715265871872000",
+              "url": "https://t.co/mKISYRYYsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083715485586354649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同事每天带走五斤水，公司已经输了 https://t.co/mKISYRYYsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 884,
+          "like_count": 12762,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      }
+    ]
+  }
+}

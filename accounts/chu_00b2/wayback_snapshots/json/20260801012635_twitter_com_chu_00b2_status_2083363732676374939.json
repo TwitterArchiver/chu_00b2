@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083061188653355169",
+    "created_at": "2026-08-01T01:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083363732676374939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040986206511800320",
+          "start": 0,
+          "username": "Yufgvvvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083363732676374939",
+    "in_reply_to_user_id": "2040986206511800320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083061188653355169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yufgvvvv 互关互关！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083061188653355169",
+        "created_at": "2026-08-01T01:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083363732676374939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040986206511800320",
+              "start": 0,
+              "username": "Yufgvvvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083363732676374939",
+        "in_reply_to_user_id": "2040986206511800320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083061188653355169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yufgvvvv 互关互关！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040986206511800320",
+        "conversation_id": "2083061188653355169",
+        "created_at": "2026-07-31T05:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083061188653355169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083061188653355169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 224,
+                "start": 219,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 230,
+                "start": 225,
+                "tag": "X新朋友"
+              },
+              {
+                "end": 236,
+                "start": 231,
+                "tag": "一起成长"
+              }
+            ]
+          },
+          "text": "X 上的新朋友在哪里？👀\n\n来报个到！\n\n刚开始玩 X 的朋友，\n正在努力成长的创作者，\n认真经营账号的蓝V朋友，\n\n都欢迎来认识一下。\n\n不问你有多少粉丝，\n不管你来自哪个行业，\n\n重要的是：\n\n愿意交流，愿意分享，愿意一起成长。\n\n评论区留下你的账号👇\n\n看到的朋友可以互相关注，\n\n多一个关注，\n多一份连接。\n\n也许今天只是一次简单互动，\n\n未来可能成为一起成长的伙伴。\n\nX 很大，\n\n希望认识更多有趣的人。\n\n来，握个手！🤝\n\n#蓝V互关 #X新朋友 #一起成长"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1296,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X 上的新朋友在哪里？👀\n\n来报个到！\n\n刚开始玩 X 的朋友，\n正在努力成长的创作者，\n认真经营账号的蓝V朋友，\n\n都欢迎来认识一下。\n\n不问你有多少粉丝，\n不管你来自哪个行业，\n\n重要的是：\n\n愿意交流，愿意分享，愿意一起成长。\n\n评论区留下你的账号👇\n\n看到的朋友可以互相关注，\n\n多一个关注，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 炸柜次数1 24年 当前未 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 431,
+          "like_count": 12681,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T02:55:26.000Z",
+        "description": "AI时代的奔跑者",
+        "id": "2040986206511800320",
+        "name": "Felix Zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065046629745299456/a_I1A9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 4030,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "Yufgvvvv",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083816264699609144",
+    "created_at": "2026-08-02T10:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083855907931537795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771156794888634368",
+          "start": 0,
+          "username": "zw2867759575009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083855907931537795",
+    "in_reply_to_user_id": "1771156794888634368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083816264699609144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zw2867759575009 这个实用哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2083816035602599936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOszpNNbEAAbY1s.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083816264699609144",
+        "created_at": "2026-08-02T10:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083855907931537795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771156794888634368",
+              "start": 0,
+              "username": "zw2867759575009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083855907931537795",
+        "in_reply_to_user_id": "1771156794888634368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083816264699609144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zw2867759575009 这个实用哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083816035602599936"
+          ]
+        },
+        "author_id": "1771156794888634368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2083816264699609144",
+        "created_at": "2026-08-02T07:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083816264699609144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkGSoDRbbo",
+              "end": 160,
+              "expanded_url": "https://x.com/zw2867759575009/status/2083816264699609144/photo/1",
+              "media_key": "3_2083816035602599936",
+              "start": 137,
+              "url": "https://t.co/nkGSoDRbbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083816264699609144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hub.cocoloop.cn",
+                "end": 207,
+                "expanded_url": "https://hub.cocoloop.cn",
+                "start": 184,
+                "url": "https://t.co/nrHtmnj7Eg"
+              },
+              {
+                "display_url": "hub.cocoloop.cn/article/18",
+                "end": 314,
+                "expanded_url": "https://hub.cocoloop.cn/article/18",
+                "start": 291,
+                "url": "https://t.co/w17A1c8X38"
+              }
+            ]
+          },
+          "text": "最近在用AI做事情的时候，有个挺直接的体会：大模型本身能力不差，但真要处理某个具体领域的问题，光靠对话不太够，还是需要一些针对性的“技能包”，也就是SKILL。\n\n之前我也试着去GitHub上找过，但说实话，对我这种没技术背景的人来说，入口不太友好，翻半天不知道哪个能用。\n\n后来有人给我推了个网站，是专门给中文用户做的SKILL聚合站，叫CocoLoop Hub。\nhttps://t.co/nrHtmnj7Eg\n\n上去看了一下，分类和说明都比较清楚，每个SKILL有评级和安全提示，使用步骤也写得很直白。\n\n如果完全没接触过，他们还有一篇新手教程，从头讲怎么用，不需要懂代码。\nhttps://t.co/w17A1c8X38\n\n我现在如果有需要，会先去上面翻翻看有没有合适的，比自己盲目搜要省事。如果你也在找类似的工具入口，可以自己去看看，不算什么神奇的东西，但确实比较实用。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 476,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "最近在用AI做事情的时候，有个挺直接的体会：大模型本身能力不差，但真要处理某个具体领域的问题，光靠对话不太够，还是需要一些针对性的“技能包”，也就是SKILL。\n\n之前我也试着去GitHub上找过，但说实话，对我这种没技术背景的人来说，入口不太友好，翻半天不知道哪个能用。 https://t.co/nkGSoDRbbo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1040,
+          "like_count": 12775,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T12:47:51.000Z",
+        "description": "#蓝鸟会\n现货交易 | \nGameFI 爱好者 | \n分享区块链游戏 web3 项目 | \nTG:DJDJ0405 | \n所有内容不构成投资建议",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "蓝鸟会"
+              }
+            ]
+          }
+        },
+        "id": "1771156794888634368",
+        "name": "DJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066915024871022592/ACg5-CHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10174,
+          "following_count": 7840,
+          "like_count": 26456,
+          "listed_count": 15,
+          "media_count": 914,
+          "tweet_count": 32508
+        },
+        "url": "",
+        "username": "zw2867759575009",
+        "verified": true
+      }
+    ]
+  }
+}
