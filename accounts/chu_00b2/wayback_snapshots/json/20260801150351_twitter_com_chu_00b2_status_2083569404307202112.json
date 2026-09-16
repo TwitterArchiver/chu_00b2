@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2083359562057601523",
+    "created_at": "2026-08-01T15:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083569404307202112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862459119749537792",
+          "start": 0,
+          "username": "caicai1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083569404307202112",
+    "in_reply_to_user_id": "1862459119749537792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083359562057601523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai1953 可以的可以的，赚了钱至少"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2083359554788794368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmUehqaIAA5g_r.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2083359562057601523",
+        "created_at": "2026-08-01T15:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083569404307202112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862459119749537792",
+              "start": 0,
+              "username": "caicai1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083569404307202112",
+        "in_reply_to_user_id": "1862459119749537792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083359562057601523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai1953 可以的可以的，赚了钱至少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083359554788794368"
+          ]
+        },
+        "author_id": "1862459119749537792",
+        "conversation_id": "2083359562057601523",
+        "created_at": "2026-08-01T01:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083359562057601523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfowT7U9zP",
+              "end": 106,
+              "expanded_url": "https://x.com/caicai1953/status/2083359562057601523/photo/1",
+              "media_key": "3_2083359554788794368",
+              "start": 83,
+              "url": "https://t.co/CfowT7U9zP"
+            },
+            {
+              "display_url": "x.com/caicai1953/sta…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/caicai1953/status/2081991230981066926",
+              "start": 107,
+              "url": "https://t.co/zLVuU0UWrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083359562057601523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1098,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081991230981066926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又发工资了34.74美元，和我想象的差不多，因为没有怎么搞流量。\n\n还有没有大佬没拿到工资的?\n\n来交个朋友，我助你一臂之力。\n\n也欢迎评论区各位大佬一起交个朋友。 https://t.co/CfowT7U9zP https://t.co/zLVuU0UWrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "location": "Shanghai",
+        "name": "CHU_00B2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 725,
+          "like_count": 12711,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-29T11:30:40.000Z",
+        "description": "💖加密小韭菜/老师饿饿“肚肚打雷了”/💖TG：https://t.co/EBtZROCbMJ💖所有推文不做投资建议/💖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/caixiaohai/",
+                "end": 46,
+                "expanded_url": "http://t.me/caixiaohai/",
+                "start": 23,
+                "url": "https://t.co/EBtZROCbMJ"
+              }
+            ]
+          }
+        },
+        "id": "1862459119749537792",
+        "location": " ",
+        "name": "小孩💢 上Gate玩事件合约",
+        "pinned_tweet_id": "2083359562057601523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009126179803176960/-Ycm8YCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18908,
+          "following_count": 10795,
+          "like_count": 79365,
+          "listed_count": 41,
+          "media_count": 2311,
+          "tweet_count": 76298
+        },
+        "url": "",
+        "username": "caicai1953",
+        "verified": true
+      }
+    ]
+  }
+}

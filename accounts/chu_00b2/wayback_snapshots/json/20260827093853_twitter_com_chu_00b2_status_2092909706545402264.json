@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2092563434059800839",
+    "created_at": "2026-08-27T09:38:53.000Z",
+    "display_text_range": [
+      15,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092909706545402264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704263489345523712",
+          "start": 0,
+          "username": "ri_human18005"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断病历。 初诊 前往导医台 可能会先要求挂号 王飚，如果你抢到了 其他医生 的初诊号，可以不去导医台直接前往挂号窗口交费取号。 如果对自身条件足够自信，可以尝试初诊直接挂陆峥。陆峥可能会开一些MMPI之类的检查，完成检查后要求你现在随便去挂一个其他医生的号开诊断，再回去就能得到陆峥的诊断证明。最好情况下可以半天速通。 初诊 可能会被开 四宫格 打发。陆峥对于条件较好的可能会询问 “你已经考虑好家庭/社会了吧” 后跳过四宫格。 如果有抑郁问题，非常可能开抗抑郁药打发，以刷证为目的请避免表现出抑郁问题。（大概率不看 MMPI 的 Mf 分） 如果不 pass，不建议女装前往。 Transles 不建议透露自己同性恋倾向。 陆峥 可能会否定某些医生的诊断，称其他医生没他专业。 看心情给家长打电话确认",
+          "display_url": "mtf.wiki/zh-cn/docs/psy…",
+          "end": 65,
+          "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc",
+          "start": 42,
+          "status": 200,
+          "title": "上海市精神卫生中心",
+          "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc",
+          "url": "https://t.co/eqHZ0f7cXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092909706545402264",
+    "in_reply_to_user_id": "1704263489345523712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092819314969829623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_human18005 陆峥是肯定要去的，已经打算去了，但是只有三个也不至于吧https://t.co/eqHZ0f7cXF"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092819314969829623].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092819314969829623",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092819314969829623"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2092563434059800839",
+        "created_at": "2026-08-27T09:38:53.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092909706545402264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704263489345523712",
+              "start": 0,
+              "username": "ri_human18005"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. P.S. 实际上只要去就诊就会在系统里有「易性症」的诊断病历。 初诊 前往导医台 可能会先要求挂号 王飚，如果你抢到了 其他医生 的初诊号，可以不去导医台直接前往挂号窗口交费取号。 如果对自身条件足够自信，可以尝试初诊直接挂陆峥。陆峥可能会开一些MMPI之类的检查，完成检查后要求你现在随便去挂一个其他医生的号开诊断，再回去就能得到陆峥的诊断证明。最好情况下可以半天速通。 初诊 可能会被开 四宫格 打发。陆峥对于条件较好的可能会询问 “你已经考虑好家庭/社会了吧” 后跳过四宫格。 如果有抑郁问题，非常可能开抗抑郁药打发，以刷证为目的请避免表现出抑郁问题。（大概率不看 MMPI 的 Mf 分） 如果不 pass，不建议女装前往。 Transles 不建议透露自己同性恋倾向。 陆峥 可能会否定某些医生的诊断，称其他医生没他专业。 看心情给家长打电话确认",
+              "display_url": "mtf.wiki/zh-cn/docs/psy…",
+              "end": 65,
+              "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc",
+              "start": 42,
+              "status": 200,
+              "title": "上海市精神卫生中心",
+              "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/shanghai/shmhc",
+              "url": "https://t.co/eqHZ0f7cXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092909706545402264",
+        "in_reply_to_user_id": "1704263489345523712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092819314969829623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_human18005 陆峥是肯定要去的，已经打算去了，但是只有三个也不至于吧https://t.co/eqHZ0f7cXF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2092909706545402264",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 1303,
+          "like_count": 13178,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-19T22:37:59.000Z",
+        "description": "",
+        "id": "1704263489345523712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092819314969829623",
+        "name": "Human Ri",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073221816592809984/fIR7ECEo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "ri_human18005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

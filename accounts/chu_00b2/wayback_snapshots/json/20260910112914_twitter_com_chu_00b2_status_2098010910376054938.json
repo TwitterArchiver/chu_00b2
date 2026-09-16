@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2098005401363177704",
+    "created_at": "2026-09-10T11:29:14.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098010910376054938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2088610517720158208",
+          "start": 0,
+          "username": "LinQi_AWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098010910376054938",
+    "in_reply_to_user_id": "2088610517720158208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098010616636088577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_AWA 好耶！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2098005401363177704",
+        "created_at": "2026-09-10T11:29:14.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098010910376054938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2088610517720158208",
+              "start": 0,
+              "username": "LinQi_AWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098010910376054938",
+        "in_reply_to_user_id": "2088610517720158208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098010616636088577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_AWA 好耶！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088610517720158208",
+        "conversation_id": "2098005401363177704",
+        "created_at": "2026-09-10T11:28:04.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098010616636088577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932043060550242304",
+              "start": 0,
+              "username": "chu_00b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098010616636088577",
+        "in_reply_to_user_id": "1932043060550242304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098005401363177704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_00b2 好耶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2098010910376054938",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 1454,
+          "like_count": 13676,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T13:03:50.000Z",
+        "description": "|My Love:@LYX091128|草履蟲2.0|武漢城|♂️|林栖|花果山帝國元首|\n|妹妹@xian_zi17640|小妹妹@littletaomiao|\n|可愛弟弟：@a_username_owo|\n|姐姐@nekotanko_shiro|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "LYX091128"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "xian_zi17640"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "littletaomiao"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "a_username_owo"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "nekotanko_shiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linqi_qaq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linqi_qaq",
+                "start": 0,
+                "url": "https://t.co/WP8UVgjbvL"
+              }
+            ]
+          }
+        },
+        "id": "2088610517720158208",
+        "is_identity_verified": false,
+        "location": "冷雨心里",
+        "most_recent_tweet_id": "2098010616636088577",
+        "name": "LinQi",
+        "pinned_tweet_id": "2092629102939292144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088610517720158208/1786866913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097483103761580032/DC1w9hqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 323,
+          "like_count": 5842,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/WP8UVgjbvL",
+        "username": "LinQi_AWA",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

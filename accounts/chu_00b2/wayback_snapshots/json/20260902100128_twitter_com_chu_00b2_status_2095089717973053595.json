@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2094756099463225650",
+    "created_at": "2026-09-02T10:01:28.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095089717973053595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "915954199598452738",
+          "start": 0,
+          "username": "KyoStrawberryz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095089717973053595",
+    "in_reply_to_user_id": "915954199598452738",
+    "lang": "ca",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094756099463225650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyoStrawberryz3 Congrats sis!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2094756099463225650",
+        "created_at": "2026-09-02T10:01:28.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095089717973053595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "915954199598452738",
+              "start": 0,
+              "username": "KyoStrawberryz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095089717973053595",
+        "in_reply_to_user_id": "915954199598452738",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094756099463225650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyoStrawberryz3 Congrats sis!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "915954199598452738",
+        "conversation_id": "2094756099463225650",
+        "created_at": "2026-09-01T11:55:47.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094756099463225650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KyoStrawberryz…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KyoStrawberryz3/status/1985903607120634107",
+              "start": 16,
+              "url": "https://t.co/MwXpEV3bCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094756099463225650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 509,
+          "impression_count": 69989,
+          "like_count": 6933,
+          "quote_count": 8,
+          "reply_count": 67,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903607120634107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "IM FINALLY FREE https://t.co/MwXpEV3bCo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2095089717973053595",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1420,
+          "like_count": 13395,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-05T14:57:53.000Z",
+        "description": "🍓 Celeste changed my life 🍓\nTrans Girl 🏳️‍⚧️❤️\nGD Player, Hardest: Party Rock Anthem (Top 1300)\npfp by @iloli_i8g (I love you)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "iloli_i8g"
+              }
+            ]
+          }
+        },
+        "id": "915954199598452738",
+        "is_identity_verified": false,
+        "location": "Ella/She (20 yo)",
+        "most_recent_tweet_id": "2094935355027767448",
+        "name": "ღ strawberries ღ",
+        "pinned_tweet_id": "2094756099463225650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915954199598452738/1761428028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077750063036506112/vK62IUN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 151,
+          "like_count": 86590,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 2965
+        },
+        "url": "",
+        "username": "KyoStrawberryz3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

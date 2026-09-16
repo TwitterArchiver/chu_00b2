@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2096196430025372123",
+    "created_at": "2026-09-05T11:19:09.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096196430025372123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1932043060550242304",
+          "start": 11,
+          "username": "chu_00b2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "脸型偏长，下颌线条圆润，下巴较尖。眼睛较小且为单眼皮，鼻梁偏低，嘴唇较薄，整体五官偏柔，幼态感不强。皮肤为暖黄调，T区略带油光，无严重瑕疵。",
+          "display_url": "femboy.udclass.top/share/cmtoae2r…",
+          "end": 50,
+          "expanded_url": "https://femboy.udclass.top/share/cmtoae2ro008f5dltwvejwf64",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2096196446030893056/d7yuCQDw?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096196446030893056/d7yuCQDw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "@chu_00b2 · 小男娘指数 41% · 日常自然",
+          "unwound_url": "https://femboy.udclass.top/share/cmtoae2ro008f5dltwvejwf64",
+          "url": "https://t.co/raLIWDgSPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096196430025372123",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "femboy lab @chu_00b2 · 41% https://t.co/raLIWDgSPv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2096196430025372123",
+        "created_at": "2026-09-05T11:19:09.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096196430025372123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1932043060550242304",
+              "start": 11,
+              "username": "chu_00b2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "脸型偏长，下颌线条圆润，下巴较尖。眼睛较小且为单眼皮，鼻梁偏低，嘴唇较薄，整体五官偏柔，幼态感不强。皮肤为暖黄调，T区略带油光，无严重瑕疵。",
+              "display_url": "femboy.udclass.top/share/cmtoae2r…",
+              "end": 50,
+              "expanded_url": "https://femboy.udclass.top/share/cmtoae2ro008f5dltwvejwf64",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2096196446030893056/d7yuCQDw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096196446030893056/d7yuCQDw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "@chu_00b2 · 小男娘指数 41% · 日常自然",
+              "unwound_url": "https://femboy.udclass.top/share/cmtoae2ro008f5dltwvejwf64",
+              "url": "https://t.co/raLIWDgSPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096196430025372123",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "femboy lab @chu_00b2 · 41% https://t.co/raLIWDgSPv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096196430025372123",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1437,
+          "like_count": 13432,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

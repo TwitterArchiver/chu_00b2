@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094377053084917760"
+      ],
+      "media_source_tweet_id": [
+        "2094377061729345780"
+      ]
+    },
+    "author_id": "1932043060550242304",
+    "conversation_id": "2094384814656991293",
+    "created_at": "2026-08-31T11:20:26.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094384814656991293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011376335831351296",
+          "start": 3,
+          "username": "rrei44092"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jyamF9Mlpr",
+          "end": 75,
+          "expanded_url": "https://x.com/rrei44092/status/2094377061729345780/photo/1",
+          "media_key": "3_2094377053084917760",
+          "start": 52,
+          "url": "https://t.co/jyamF9Mlpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094384814656991293",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094377053084917760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094377061729345780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrei44092: Hi，我是零酱，很高兴再次与大家见面。 愿前路坦荡，少些烦恼，多些欢喜。 https://t.co/jyamF9Mlpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2283,
+        "media_key": "3_2094377053084917760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC41VLbIAAFuFd.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094377053084917760"
+          ],
+          "media_source_tweet_id": [
+            "2094377061729345780"
+          ]
+        },
+        "author_id": "1932043060550242304",
+        "conversation_id": "2094384814656991293",
+        "created_at": "2026-08-31T11:20:26.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094384814656991293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011376335831351296",
+              "start": 3,
+              "username": "rrei44092"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyamF9Mlpr",
+              "end": 75,
+              "expanded_url": "https://x.com/rrei44092/status/2094377061729345780/photo/1",
+              "media_key": "3_2094377053084917760",
+              "start": 52,
+              "url": "https://t.co/jyamF9Mlpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094384814656991293",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094377053084917760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094377061729345780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrei44092: Hi，我是零酱，很高兴再次与大家见面。 愿前路坦荡，少些烦恼，多些欢喜。 https://t.co/jyamF9Mlpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094377053084917760"
+          ]
+        },
+        "author_id": "2011376335831351296",
+        "conversation_id": "2094377061729345780",
+        "created_at": "2026-08-31T10:49:37.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094377061729345780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyamF9Mlpr",
+              "end": 60,
+              "expanded_url": "https://x.com/rrei44092/status/2094377061729345780/photo/1",
+              "media_key": "3_2094377053084917760",
+              "start": 37,
+              "url": "https://t.co/jyamF9Mlpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094377061729345780",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094377053084917760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Hi，我是零酱，很高兴再次与大家见面。 愿前路坦荡，少些烦恼，多些欢喜。 https://t.co/jyamF9Mlpr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2094384814656991293",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1394,
+          "like_count": 13352,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-14T09:54:44.000Z",
+        "description": "账号重生×4\n不纪念过去的账号，而是纪念失去的人与记忆。\n一个戏剧里的导演和旁观者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/ONrezCLmBZ"
+              }
+            ]
+          }
+        },
+        "id": "2011376335831351296",
+        "is_identity_verified": false,
+        "location": "0距离",
+        "most_recent_tweet_id": "2094382619786154313",
+        "name": "Rei酱（躺着也中枪版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011376335831351296/1788172877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094372891735535616/QRnbzTb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 55,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/ONrezCLmBZ",
+        "username": "rrei44092",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
