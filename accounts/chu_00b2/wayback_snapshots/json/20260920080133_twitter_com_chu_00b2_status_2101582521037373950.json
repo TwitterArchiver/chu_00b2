@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2101544449772064789",
+    "created_at": "2026-09-20T08:01:33.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101582521037373950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067076065819000832",
+          "start": 0,
+          "username": "XwXr432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101582521037373950",
+    "in_reply_to_user_id": "2067076065819000832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101544449772064789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwXr432 Too real"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2101544449772064789",
+        "created_at": "2026-09-20T08:01:33.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101582521037373950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067076065819000832",
+              "start": 0,
+              "username": "XwXr432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101582521037373950",
+        "in_reply_to_user_id": "2067076065819000832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101544449772064789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwXr432 Too real"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067076065819000832",
+        "conversation_id": "2101544449772064789",
+        "created_at": "2026-09-20T05:30:16.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101544449772064789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101544449772064789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 71241,
+          "like_count": 419,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "鬱になる（自32未遂、○Dなどなど）\n⬇️\n精神科に入院する\n⬇️\nスマホ禁止外出れない閉鎖病棟でさらに病む\n⬇️\n元気だと嘘をついて退院する\n⬇️\n鬱になる\n⬇️\n♾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101582521037373950",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1456,
+          "like_count": 14478,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-17T02:46:51.000Z",
+        "description": "サブ垢▶︎ @432korosu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "432korosu"
+              }
+            ]
+          }
+        },
+        "id": "2067076065819000832",
+        "is_identity_verified": false,
+        "location": "窒息吸って寝よう",
+        "most_recent_tweet_id": "2101544449772064789",
+        "name": "窒素さん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067076065819000832/1788365329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093232466740031488/xnJL-r6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 314,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "XwXr432",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

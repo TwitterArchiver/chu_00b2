@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2099702999228497965",
+    "created_at": "2026-09-15T04:00:54.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099710022343348576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624556678858395648",
+          "start": 0,
+          "username": "huhu12027596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099710022343348576",
+    "in_reply_to_user_id": "1624556678858395648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099702999228497965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhu12027596 贵，外加称量几mg的剂量要么贵要么麻烦，外加雌二醇口服血药降的太快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2099702999228497965",
+        "created_at": "2026-09-15T04:00:54.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099710022343348576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624556678858395648",
+              "start": 0,
+              "username": "huhu12027596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099710022343348576",
+        "in_reply_to_user_id": "1624556678858395648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099702999228497965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu12027596 贵，外加称量几mg的剂量要么贵要么麻烦，外加雌二醇口服血药降的太快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624556678858395648",
+        "conversation_id": "2099702999228497965",
+        "created_at": "2026-09-15T03:33:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099702999228497965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099702999228497965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪了，为什么不直接吃雌二醇原料，98%纯度应该可以雌爆了叭吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2099710022343348576",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1455,
+          "like_count": 13875,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T23:51:47.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1624556678858395648",
+        "is_identity_verified": false,
+        "location": "广东韶关，同类可面基❤️",
+        "most_recent_tweet_id": "2099707827849961787",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）（糖🍬商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624556678858395648/1788723973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096686309930840064/uDxcUaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 290,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/mhMUnF6GNe",
+        "username": "huhu12027596",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

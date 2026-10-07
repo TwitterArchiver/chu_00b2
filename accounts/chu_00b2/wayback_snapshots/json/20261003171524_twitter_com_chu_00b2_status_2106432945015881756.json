@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2106289831060083192",
+    "created_at": "2026-10-03T17:15:24.000Z",
+    "display_text_range": [
+      26,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106432945015881756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065493343577214976",
+          "start": 0,
+          "username": "Yucha_offical"
+        },
+        {
+          "end": 25,
+          "id": "1946799807366082560",
+          "start": 15,
+          "username": "LeavesMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106432945015881756",
+    "in_reply_to_user_id": "2065493343577214976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106289831060083192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yucha_offical @LeavesMao 熬夜的话底妆上不去的哇，猫猫叶不知道的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106289585273888768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsLN9xa4AAggSI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2106289585307484160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsLN95bgAASKGK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2106289585311662080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsLN96bQAAlbjl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2106289831060083192",
+        "created_at": "2026-10-03T17:15:24.000Z",
+        "display_text_range": [
+          26,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106432945015881756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065493343577214976",
+              "start": 0,
+              "username": "Yucha_offical"
+            },
+            {
+              "end": 25,
+              "id": "1946799807366082560",
+              "start": 15,
+              "username": "LeavesMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106432945015881756",
+        "in_reply_to_user_id": "2065493343577214976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106289831060083192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yucha_offical @LeavesMao 熬夜的话底妆上不去的哇，猫猫叶不知道的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106289585273888768",
+            "3_2106289585307484160",
+            "3_2106289585311662080"
+          ]
+        },
+        "author_id": "2065493343577214976",
+        "conversation_id": "2106289831060083192",
+        "created_at": "2026-10-03T07:46:43.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106289831060083192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 116,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "驹泽乃依"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1946799807366082560",
+              "start": 56,
+              "username": "LeavesMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GpiRRmYi9",
+              "end": 166,
+              "expanded_url": "https://x.com/Yucha_offical/status/2106289831060083192/photo/1",
+              "media_key": "3_2106289585273888768",
+              "start": 143,
+              "url": "https://t.co/9GpiRRmYi9"
+            },
+            {
+              "display_url": "pic.x.com/9GpiRRmYi9",
+              "end": 166,
+              "expanded_url": "https://x.com/Yucha_offical/status/2106289831060083192/photo/1",
+              "media_key": "3_2106289585307484160",
+              "start": 143,
+              "url": "https://t.co/9GpiRRmYi9"
+            },
+            {
+              "display_url": "pic.x.com/9GpiRRmYi9",
+              "end": 166,
+              "expanded_url": "https://x.com/Yucha_offical/status/2106289831060083192/photo/1",
+              "media_key": "3_2106289585311662080",
+              "start": 143,
+              "url": "https://t.co/9GpiRRmYi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106289831060083192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106289585273888768"
+          },
+          {
+            "media_key": "3_2106289585307484160"
+          },
+          {
+            "media_key": "3_2106289585311662080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "搞二次元的应该都知道出cos前一天晚上尽量早点睡\n因为这样不仅可以精神饱满的去出角色\n而且化妆的效果会更好\n然而@LeavesMao  这家伙不是搞二次元的\n所以ta熬了一个雷霆大通宵然后现在在地铁站睡了1个小时cos睡美人🤔🤔🤔\n#cosplayㅤㅤㅤㅤㅤㅤㅤ #驹泽乃依 #男の娘 https://t.co/9GpiRRmYi9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "只是一个疑似双相的蕾蕾而已捏:3\n老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CHU_00B2",
+                "end": 23,
+                "expanded_url": "https://t.me/CHU_00B2",
+                "start": 0,
+                "url": "https://t.co/rwHh2u1Pqk"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106432945015881756",
+        "name": "Iris CHU_00B2🍥",
+        "pinned_tweet_id": "2106429074323431553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1517,
+          "like_count": 15902,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/rwHh2u1Pqk",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T17:57:28.000Z",
+        "description": "“听说，\n用雨水煮茶\n可以尝到森林的味道。”\n男の娘/abdl🍼/苦逼大学生💯/总之什么都会沾一点🤔\n湿热也有号，你也会在互联网的各个角落看到我\n“总之是个过气不会火的小博主”",
+        "id": "2065493343577214976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106338420960473222",
+        "name": "雨茶Offical",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065493343577214976/1791024870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065494004255674368/9MzwjdT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Yucha_offical",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "是猫不是叶\n2009.05.23",
+        "id": "1946799807366082560",
+        "is_identity_verified": false,
+        "location": "(៸៸᳐⦁⩊⦁៸៸᳐ )੭",
+        "most_recent_tweet_id": "2106336828832038976",
+        "name": "🍼猫猫叶TheCat🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093973227865518085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946799807366082560/1785295903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100455183029604352/4Ghj5YqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 737,
+          "like_count": 4544,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "LeavesMao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

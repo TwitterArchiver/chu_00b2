@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2104312026700923201",
+    "created_at": "2026-09-27T23:05:26.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104346708750868540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073199280941322240",
+          "start": 0,
+          "username": "lucasasinboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104346708750868540",
+    "in_reply_to_user_id": "2073199280941322240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104312026700923201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucasasinboy 像是某条蓝色大肥鱼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2104312002646523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQEngZWQAAUxFf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2104312026700923201",
+        "created_at": "2026-09-27T23:05:26.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104346708750868540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073199280941322240",
+              "start": 0,
+              "username": "lucasasinboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104346708750868540",
+        "in_reply_to_user_id": "2073199280941322240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104312026700923201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucasasinboy 像是某条蓝色大肥鱼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104312002646523904"
+          ]
+        },
+        "author_id": "2073199280941322240",
+        "conversation_id": "2104312026700923201",
+        "created_at": "2026-09-27T20:47:38.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104312026700923201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HB7luXqZhz",
+              "end": 33,
+              "expanded_url": "https://x.com/lucasasinboy/status/2104312026700923201/photo/1",
+              "media_key": "3_2104312002646523904",
+              "start": 10,
+              "url": "https://t.co/HB7luXqZhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104312026700923201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104312002646523904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的云，有点东西 https://t.co/HB7luXqZhz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2104346708750868540",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1503,
+          "like_count": 15457,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T00:17:11.000Z",
+        "description": "我不太相信所谓的“标准答案”。\n\n正在穿越不同的环境，学习不同的语言，也在重新理解这个世界的运行方式。\n\n关注 AI、科技、资本与商业，也关注那些正在悄悄改变未来的东西。\n\n我想记录的不只是发生了什么，更想弄明白：\n\n为什么会发生，以及接下来会发生什么。\n\n保持好奇，保持清醒。\n\n然后，去寻找属于自己的答案。",
+        "id": "2073199280941322240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104346702937514370",
+        "name": "lucas",
+        "pinned_tweet_id": "2104028371261014195",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073199280941322240/1789109167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098301309149745153/2seHL1UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 660,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "lucasasinboy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

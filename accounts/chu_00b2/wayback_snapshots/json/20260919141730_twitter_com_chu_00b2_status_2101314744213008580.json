@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2101278238706418110",
+    "created_at": "2026-09-19T14:17:30.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101314744213008580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620758411532185600",
+          "start": 0,
+          "username": "ally_foe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101314744213008580",
+    "in_reply_to_user_id": "1620758411532185600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101278238706418110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ally_foe really???送蓝v吗？这么好？！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2101278238706418110",
+        "created_at": "2026-09-19T14:17:30.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101314744213008580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620758411532185600",
+              "start": 0,
+              "username": "ally_foe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101314744213008580",
+        "in_reply_to_user_id": "1620758411532185600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101278238706418110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ally_foe really???送蓝v吗？这么好？！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620758411532185600",
+        "conversation_id": "2101278238706418110",
+        "created_at": "2026-09-19T11:52:26.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101278238706418110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101278238706418110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27403,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 520,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈这几天太幸福了，没想到这么人爱看我的碎碎念，也没什么特别的东西给大家，这样吧，我给大家送点蓝 v，来就送，起步三个月，反正也就五刀，要的在这里跟我唠唠嗑，要是我一万四粉丝全是蓝 v 就好看哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101314744213008580",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1456,
+          "like_count": 14222,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-01T12:18:40.000Z",
+        "description": "前4A广告创意|前互联网大厂低 P|一米七中英双语主持人|爱讲脱口秀写点小烂梗\nAl+美股+Crypto \n研究认知、科技与资本的交汇点\n真的都是自己写的，防走丢抖音：Allyorfoe",
+        "id": "1620758411532185600",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101314064593150168",
+        "name": "Foe Ally（已婚）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620758411532185600/1773597100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064636052435017728/K3-l_WrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14761,
+          "following_count": 1412,
+          "like_count": 37,
+          "listed_count": 50,
+          "media_count": 764,
+          "tweet_count": 11503
+        },
+        "url": "",
+        "username": "ally_foe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

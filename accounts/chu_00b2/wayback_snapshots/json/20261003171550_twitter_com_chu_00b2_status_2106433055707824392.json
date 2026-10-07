@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2106319673692405813",
+    "created_at": "2026-10-03T17:15:50.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106433055707824392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946799807366082560",
+          "start": 0,
+          "username": "LeavesMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106433055707824392",
+    "in_reply_to_user_id": "1946799807366082560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106319673692405813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeavesMao 熬夜的话底妆会上不去的哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2106319673692405813",
+        "created_at": "2026-10-03T17:15:50.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106433055707824392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946799807366082560",
+              "start": 0,
+              "username": "LeavesMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106433055707824392",
+        "in_reply_to_user_id": "1946799807366082560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106319673692405813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeavesMao 熬夜的话底妆会上不去的哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946799807366082560",
+        "conversation_id": "2106319673692405813",
+        "created_at": "2026-10-03T09:45:18.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106319673692405813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yucha_offical/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Yucha_offical/status/2106289831060083192",
+              "start": 8,
+              "url": "https://t.co/D5qch0uu0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106319673692405813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106289831060083192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😿对不起😭😭😭 https://t.co/D5qch0uu0W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "只是一个疑似双相的蕾蕾而已捏:3\n老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CHU_00B2",
+                "end": 23,
+                "expanded_url": "https://t.me/CHU_00B2",
+                "start": 0,
+                "url": "https://t.co/rwHh2u1Pqk"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106433055707824392",
+        "name": "Iris CHU_00B2🍥",
+        "pinned_tweet_id": "2106429074323431553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1517,
+          "like_count": 15902,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/rwHh2u1Pqk",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "是猫不是叶\n2009.05.23",
+        "id": "1946799807366082560",
+        "is_identity_verified": false,
+        "location": "(៸៸᳐⦁⩊⦁៸៸᳐ )੭",
+        "most_recent_tweet_id": "2106336828832038976",
+        "name": "🍼猫猫叶TheCat🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093973227865518085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946799807366082560/1785295903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100455183029604352/4Ghj5YqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 737,
+          "like_count": 4544,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "LeavesMao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

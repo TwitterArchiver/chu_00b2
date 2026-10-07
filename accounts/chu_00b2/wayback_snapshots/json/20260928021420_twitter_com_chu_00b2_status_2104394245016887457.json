@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2104391962229133485",
+    "created_at": "2026-09-28T02:14:20.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104394245016887457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565122117472886785",
+          "start": 0,
+          "username": "ananluluanan"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104394245016887457",
+    "in_reply_to_user_id": "1565122117472886785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104391962229133485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ananluluanan @grok 是真的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2104391486716735488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRM6FobcAAjRci.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2104391962229133485",
+        "created_at": "2026-09-28T02:14:20.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104394245016887457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565122117472886785",
+              "start": 0,
+              "username": "ananluluanan"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104394245016887457",
+        "in_reply_to_user_id": "1565122117472886785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104391962229133485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ananluluanan @grok 是真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104391486716735488"
+          ]
+        },
+        "author_id": "1565122117472886785",
+        "conversation_id": "2104391962229133485",
+        "created_at": "2026-09-28T02:05:16.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104391962229133485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keHeAFEN8B",
+              "end": 167,
+              "expanded_url": "https://x.com/ananluluanan/status/2104391962229133485/photo/1",
+              "media_key": "3_2104391486716735488",
+              "start": 144,
+              "url": "https://t.co/keHeAFEN8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104391962229133485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104391486716735488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「美國常春藤盟校Cornell University一個女生被七個男的集體下藥輪兼，這幫男的在群裡叫她「free pussy」\n甚至直接把氯胺酮(k他命)涂在JJ上繼續強暴\n結果警方以證據不足直接不予刑事起訴\n康奈爾大學校方調查完居然只讓這幫男的寫essay抵消處分，但女孩卻被迫退學」 https://t.co/keHeAFEN8B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2104394245016887457",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1503,
+          "like_count": 15469,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-31T23:39:48.000Z",
+        "description": "台灣比特幣老男孩 💎 |  AI 玩轉加密日常\n BTC 真實手單、即時消息、血淚心得 +台灣人買幣避雷攻略 暴漲暴跌都愛！睡的著 待的久 ⚡ 台北男孩｜1986年生 ⚾ \n#蓝V互关#F4F#相互フォロー 🔥 用我的 OKX 邀請碼註冊，最高45%優惠\nhttps://t.co/knqdblPOdN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/56829750",
+                "end": 151,
+                "expanded_url": "https://okx.com/join/56829750",
+                "start": 128,
+                "url": "https://t.co/knqdblPOdN"
+              }
+            ]
+          }
+        },
+        "id": "1565122117472886785",
+        "is_identity_verified": false,
+        "location": "Taipei City, Taiwan",
+        "most_recent_tweet_id": "2104394129379885122",
+        "name": "🫂加蜜禍弊台北安公子",
+        "pinned_tweet_id": "2045406042759348455",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565122117472886785/1777480260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044292050930356224/vMINj_FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24414,
+          "following_count": 19225,
+          "like_count": 8932,
+          "listed_count": 9,
+          "media_count": 3055,
+          "tweet_count": 9799
+        },
+        "url": "",
+        "username": "ananluluanan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104394260933980436",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9107095,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7684,
+          "media_count": 3963486,
+          "tweet_count": 137491557
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

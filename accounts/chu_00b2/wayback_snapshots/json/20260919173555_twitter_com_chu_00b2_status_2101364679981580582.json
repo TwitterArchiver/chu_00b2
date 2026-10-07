@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2101246480816525821",
+    "created_at": "2026-09-19T17:35:55.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101364679981580582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101364679981580582",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101246480816525821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile 夺少？170一整盒泰补？那么便宜？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101246473988194304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkgiQObwAAeTUb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2101246480816525821",
+        "created_at": "2026-09-19T17:35:55.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101364679981580582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101364679981580582",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101246480816525821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 夺少？170一整盒泰补？那么便宜？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101246473988194304"
+          ]
+        },
+        "author_id": "2041687695424950273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101246480816525821",
+        "created_at": "2026-09-19T09:46:14.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101246480816525821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eixkX2b3P5",
+              "end": 43,
+              "expanded_url": "https://x.com/ccshuile/status/2101246480816525821/photo/1",
+              "media_key": "3_2101246473988194304",
+              "start": 20,
+              "url": "https://t.co/eixkX2b3P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101246480816525821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101246473988194304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3160,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出点补子，价格非常美丽，就比我身高多点 https://t.co/eixkX2b3P5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101364679981580582",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1455,
+          "like_count": 14224,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "属于我的人生庆典快点到来吧🍀",
+        "id": "2041687695424950273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101322227136483577",
+        "name": "cc🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041687695424950273/1776058992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 34,
+          "like_count": 2648,
+          "listed_count": 8,
+          "media_count": 78,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

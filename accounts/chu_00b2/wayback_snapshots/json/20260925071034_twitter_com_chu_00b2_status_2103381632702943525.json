@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2103351540132028805",
+    "created_at": "2026-09-25T07:10:34.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103381632702943525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624556678858395648",
+          "start": 0,
+          "username": "huhu12027596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103381632702943525",
+    "in_reply_to_user_id": "1624556678858395648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103351540132028805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhu12027596 太坏了喵！！！😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2103351540132028805",
+        "created_at": "2026-09-25T07:10:34.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103381632702943525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624556678858395648",
+              "start": 0,
+              "username": "huhu12027596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103381632702943525",
+        "in_reply_to_user_id": "1624556678858395648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103351540132028805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu12027596 太坏了喵！！！😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624556678858395648",
+        "conversation_id": "2103351540132028805",
+        "created_at": "2026-09-25T05:11:00.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103351540132028805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "妄想症的治疗方法主要有两方面，包括药物治疗和心理治疗。1.药物治疗：主要是使用抗精神病药物，包括奥氮平、利培酮、阿立哌唑等。如果合并有睡眠障碍，可以加用劳拉西泮、佐匹克隆等药物。在合并躁狂症的时候，可以使用碳酸锂、丙戊酸钠等药物，这些药物使用的时候要注意不要中途停药，减量宜缓慢，在使用之前都要由专业精神科医师",
+              "display_url": "m.baidu.com/bh/m/detail/ar…",
+              "end": 119,
+              "expanded_url": "https://m.baidu.com/bh/m/detail/ar_6750406566749707236",
+              "start": 96,
+              "status": 200,
+              "title": "妄想症怎么治疗-医疗科普-百度健康",
+              "unwound_url": "https://m.baidu.com/bh/m/detail/ar_6750406566749707236",
+              "url": "https://t.co/qBxbiTtHR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103351540132028805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中秋节到啦，给大家准备了中秋礼物\n一等奖：500元 10个人\n二等奖：200元 20个人\n三等奖，100元，50个人\n祝大家中秋快乐！\n点赞转发即可参与\n\n点赞转发后点击下面链接即可参与活动\nhttps://t.co/qBxbiTtHR4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2103381632702943525",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1487,
+          "like_count": 15091,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T23:51:47.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF68XG\n微信：admin22334\nqq:1621320515\n老婆:@ChiAki1000kzm\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ChiAki1000kzm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          }
+        },
+        "id": "1624556678858395648",
+        "is_identity_verified": false,
+        "location": "广东韶关，同类可面基❤️",
+        "most_recent_tweet_id": "2103351540132028805",
+        "name": "惠惠🍥🏳️‍⚧️（糖🍬商）（中二病也要mtf）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624556678858395648/1788723973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096686309930840064/uDxcUaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 384,
+          "like_count": 262,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/mhMUnF68XG",
+        "username": "huhu12027596",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

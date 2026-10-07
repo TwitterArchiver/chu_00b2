@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2099880072580841606",
+    "created_at": "2026-09-15T15:16:37.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099880072580841606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "CHU_00B2🍥's Space · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dKrP…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/spaces/1dKrPryVLBqJX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2099880074535399424/w98jGCPD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099880074535399424/w98jGCPD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "Happening now: 心情不好开个space试试 / X",
+          "unwound_url": "https://x.com/i/spaces/1dKrPryVLBqJX",
+          "url": "https://t.co/IbtWwa9Mxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099880072580841606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情不好开个space试试 https://t.co/IbtWwa9Mxv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2099880072580841606",
+        "created_at": "2026-09-15T15:16:37.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099880072580841606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "CHU_00B2🍥's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dKrP…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/spaces/1dKrPryVLBqJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2099880074535399424/w98jGCPD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099880074535399424/w98jGCPD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Happening now: 心情不好开个space试试 / X",
+              "unwound_url": "https://x.com/i/spaces/1dKrPryVLBqJX",
+              "url": "https://t.co/IbtWwa9Mxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099880072580841606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好开个space试试 https://t.co/IbtWwa9Mxv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2099880072580841606",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1452,
+          "like_count": 13927,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2099037040000278990",
+    "created_at": "2026-09-14T16:45:15.000Z",
+    "display_text_range": [
+      11,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099539989835157617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3242246588",
+          "start": 0,
+          "username": "yakshawan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099539989835157617",
+    "in_reply_to_user_id": "3242246588",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099037040000278990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yakshawan Attach the avatar to my brain pls"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17966,
+        "height": 900,
+        "media_key": "13_2099036207888113664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099036207888113664/img/bgt77_kMBNF1FGsY.jpg",
+        "public_metrics": {
+          "view_count": 934281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/516x270/1VOVZJDiVFrTjIl1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/688x360/prOukPGIYJOyaHTs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/1376x720/BfqWabTdtZpPeJAn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/pl/0EBFW_mPouIPkmPm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2099037040000278990",
+        "created_at": "2026-09-14T16:45:15.000Z",
+        "display_text_range": [
+          11,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099539989835157617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3242246588",
+              "start": 0,
+              "username": "yakshawan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099539989835157617",
+        "in_reply_to_user_id": "3242246588",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099037040000278990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yakshawan Attach the avatar to my brain pls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099036207888113664"
+          ]
+        },
+        "author_id": "3242246588",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2099037040000278990",
+        "created_at": "2026-09-13T07:26:43.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099037040000278990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phN0JnCxNf",
+              "end": 153,
+              "expanded_url": "https://x.com/yakshawan/status/2099037040000278990/video/1",
+              "media_key": "13_2099036207888113664",
+              "start": 130,
+              "url": "https://t.co/phN0JnCxNf"
+            },
+            {
+              "display_url": "x.com/yakshawan/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/yakshawan/status/2098413419204669909",
+              "start": 154,
+              "url": "https://t.co/lxZfGrNGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099037040000278990",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2099036207888113664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2016,
+          "impression_count": 3176576,
+          "like_count": 6945,
+          "quote_count": 617,
+          "reply_count": 69,
+          "retweet_count": 1765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098413419204669909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "초파리 뇌에 미소녀 3D 아바타 달아주기 실험 1일차. 대략 12시간 넘게 훈련했는데 적응할 기미가 전혀 안 보이는군. 😓 학습량이 부족한 건지 국소 최적점에 빠진 건지 잘 모르겠어서 일단 조금씩 조정해 가며 훈련을 계속해볼 생각. https://t.co/phN0JnCxNf https://t.co/lxZfGrNGHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2099539989835157617",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1455,
+          "like_count": 13821,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-11T12:00:14.000Z",
+        "description": "✦ 웹소설 작가/기획자/1인 개발자 #INTP\n✦ 개발한 것들:\n› 집중을 돕는 브라운 노이즈 익스텐션 〈TAKT〉\n› 플리 운영을 위한 음원 마스터링 툴 〈마스터마인드〉\n› AI 미소녀 스크린메이트 〈하루나 온 스크린〉\n› 그외 다수",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "INTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "heavyrain39.github.io/portfolio/",
+                "end": 23,
+                "expanded_url": "https://heavyrain39.github.io/portfolio/",
+                "start": 0,
+                "url": "https://t.co/bnZjf12YYn"
+              }
+            ]
+          }
+        },
+        "id": "3242246588",
+        "is_identity_verified": false,
+        "location": "서울",
+        "most_recent_tweet_id": "2099480672327127174",
+        "name": "야차완",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969539622306004995/w4hYGuMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 307,
+          "like_count": 56327,
+          "listed_count": 4,
+          "media_count": 2777,
+          "tweet_count": 11002
+        },
+        "url": "https://t.co/bnZjf12YYn",
+        "username": "yakshawan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

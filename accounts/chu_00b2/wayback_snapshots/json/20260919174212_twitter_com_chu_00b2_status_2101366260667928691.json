@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer certification",
+          "id": "848921279302258692",
+          "name": "Computer certification"
+        }
+      }
+    ],
+    "conversation_id": "2101258041995698644",
+    "created_at": "2026-09-19T17:42:12.000Z",
+    "display_text_range": [
+      14,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101366260667928691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855201809289056256",
+          "start": 0,
+          "username": "Hamzaonchain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101366260667928691",
+    "in_reply_to_user_id": "1855201809289056256",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101258041995698644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hamzaonchain He needs to have CCNP at 8 and CCIE at 10. HE MUST LEARN."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3701,
+        "media_key": "3_2101258025642115072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkrCpfWQAAnpRv.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer certification",
+              "id": "848921279302258692",
+              "name": "Computer certification"
+            }
+          }
+        ],
+        "conversation_id": "2101258041995698644",
+        "created_at": "2026-09-19T17:42:12.000Z",
+        "display_text_range": [
+          14,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101366260667928691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855201809289056256",
+              "start": 0,
+              "username": "Hamzaonchain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101366260667928691",
+        "in_reply_to_user_id": "1855201809289056256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101258041995698644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hamzaonchain He needs to have CCNP at 8 and CCIE at 10. HE MUST LEARN."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101258025642115072"
+          ]
+        },
+        "author_id": "1855201809289056256",
+        "conversation_id": "2101258041995698644",
+        "created_at": "2026-09-19T10:32:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101258041995698644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fE2p7QzyFx",
+              "end": 23,
+              "expanded_url": "https://x.com/Hamzaonchain/status/2101258041995698644/photo/1",
+              "media_key": "3_2101258025642115072",
+              "start": 0,
+              "url": "https://t.co/fE2p7QzyFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101258041995698644",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101258025642115072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 7003,
+          "like_count": 372,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fE2p7QzyFx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101366260667928691",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1455,
+          "like_count": 14237,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-09T10:53:05.000Z",
+        "description": "Posting tech content & memes for fun | CCNA + CCNA Security | Learning, sharing & enjoying the journey 🙂‍↔️ | DM for credit/removal or Deals.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hamzaonchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hamzaonchain",
+                "start": 0,
+                "url": "https://t.co/M27VLFpmlv"
+              }
+            ]
+          }
+        },
+        "id": "1855201809289056256",
+        "is_identity_verified": true,
+        "location": "check my highlights",
+        "most_recent_tweet_id": "2101365415213510959",
+        "name": "𝐇𝐚𝐦𝐳𝐚 | Networking Guy",
+        "pinned_tweet_id": "2058556718192239083",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855201809289056256/1785945355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025944998466686976/nj-1kRfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13132,
+          "following_count": 346,
+          "like_count": 50044,
+          "listed_count": 30,
+          "media_count": 2711,
+          "tweet_count": 18639
+        },
+        "url": "https://t.co/M27VLFpmlv",
+        "username": "Hamzaonchain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2103471855961096220",
+    "created_at": "2026-09-25T13:09:05.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103471855961096220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhweaa/status/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/zhweaa/status/2103334677583172004",
+          "start": 54,
+          "url": "https://t.co/x75rFuGEvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103471855961096220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103334677583172004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是唐毓文\n我的X账号被奶隆封了5天\n为不中断在X的社交和发帖持续性\n故征用Chu的号，望理解\n不接受反驳 https://t.co/x75rFuGEvG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2103471855961096220",
+        "created_at": "2026-09-25T13:09:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103471855961096220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhweaa/status/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/zhweaa/status/2103334677583172004",
+              "start": 54,
+              "url": "https://t.co/x75rFuGEvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103471855961096220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103334677583172004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是唐毓文\n我的X账号被奶隆封了5天\n为不中断在X的社交和发帖持续性\n故征用Chu的号，望理解\n不接受反驳 https://t.co/x75rFuGEvG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2103334677583172004",
+        "created_at": "2026-09-25T04:03:59.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103334677583172004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103334677583172004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1212,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是唐毓文\n我的X账号被奶隆封了5天\n为不中断在X的社交和发帖持续性\n故征用Zhi Wei的号，望理解\n不接受反驳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2103471855961096220",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1481,
+          "like_count": 15118,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36Xsf"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2103413953615601779",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8022,
+          "following_count": 431,
+          "like_count": 33626,
+          "listed_count": 25,
+          "media_count": 2902,
+          "tweet_count": 22070
+        },
+        "url": "https://t.co/MtaZw36Xsf",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

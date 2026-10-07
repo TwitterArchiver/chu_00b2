@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2106776976136749209",
+    "created_at": "2026-10-04T16:07:32.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106778256229961866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106778256229961866",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106776976136749209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 生日快乐喵！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2106776967580356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzGfWWaEAAzMix.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2106776976136749209",
+        "created_at": "2026-10-04T16:07:32.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106778256229961866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106778256229961866",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106776976136749209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 生日快乐喵！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106776967580356608"
+          ]
+        },
+        "author_id": "1426079620906975232",
+        "conversation_id": "2106776976136749209",
+        "created_at": "2026-10-04T16:02:27.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106776976136749209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUrVLonO0m",
+              "end": 41,
+              "expanded_url": "https://x.com/fan_rbq/status/2106776976136749209/photo/1",
+              "media_key": "3_2106776967580356608",
+              "start": 18,
+              "url": "https://t.co/NUrVLonO0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106776976136749209",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106776967580356608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我18岁了！！快来戳气球qwq🥳🥳 https://t.co/NUrVLonO0m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "只是一个疑似双相的蕾蕾而已捏:3\n老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CHU_00B2",
+                "end": 23,
+                "expanded_url": "https://t.me/CHU_00B2",
+                "start": 0,
+                "url": "https://t.co/rwHh2u1Pqk"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106778256229961866",
+        "name": "Iris CHU_00B2🍥",
+        "pinned_tweet_id": "2106429074323431553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1524,
+          "like_count": 16034,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/rwHh2u1Pqk",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  🔪？  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2106776976136749209",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 181,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

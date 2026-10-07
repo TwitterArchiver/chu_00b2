@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2106156045295042737",
+    "created_at": "2026-10-03T09:57:49.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106322822784291233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106322822784291233",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106156045295042737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2106156045295042737",
+        "created_at": "2026-10-03T09:57:49.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106322822784291233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106322822784291233",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106156045295042737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092517131552423936",
+        "conversation_id": "2106156045295042737",
+        "created_at": "2026-10-02T22:55:06.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106156045295042737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106156045295042737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1551,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "百fo抽奖贴\n\n一份神秘礼物（抱歉不抽药窝怕被抓🥺\n一个晕晕电波（窝喜欢这个游戏\n一串价值52的神秘数字\n\n关注转发评论参加喵👁️〰️👁️\n转发到50（会不会太多了呀）会发一个多人的红包"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106322822784291233",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1510,
+          "like_count": 15839,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106320819089764772",
+        "name": "MT",
+        "pinned_tweet_id": "2106156045295042737",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 184,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

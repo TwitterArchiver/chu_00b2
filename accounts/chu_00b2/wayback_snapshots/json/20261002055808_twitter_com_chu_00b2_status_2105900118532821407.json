@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2105843316990550291",
+    "created_at": "2026-10-02T05:58:08.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T06:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105900118532821407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2081009888818278400",
+          "start": 0,
+          "username": "JiGuang_Lab"
+        },
+        {
+          "end": 29,
+          "id": "2078658599153442816",
+          "start": 13,
+          "username": "XiyangMinzhiXiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105900118532821407",
+    "in_reply_to_user_id": "2081009888818278400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105853960565448828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiGuang_Lab @XiyangMinzhiXiy 待遇好高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2105843316990550291",
+        "created_at": "2026-10-02T05:58:08.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105900118532821407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2081009888818278400",
+              "start": 0,
+              "username": "JiGuang_Lab"
+            },
+            {
+              "end": 29,
+              "id": "2078658599153442816",
+              "start": 13,
+              "username": "XiyangMinzhiXiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105900118532821407",
+        "in_reply_to_user_id": "2081009888818278400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105853960565448828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiGuang_Lab @XiyangMinzhiXiy 待遇好高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2105843316990550291",
+        "created_at": "2026-10-02T02:54:43.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105853960565448828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2078658599153442816",
+              "start": 0,
+              "username": "XiyangMinzhiXiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105853960565448828",
+        "in_reply_to_user_id": "2081009888818278400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105853459933344108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiyangMinzhiXiy 法一次十盒补佳乐来不来吧你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2105900118532821407",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1510,
+          "like_count": 15736,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n\n神农尝百草是为了追求极乐！ \n\n“这个世界存在着许多超出我们想象的存在”\n\n“去经历去学习成长自己也必须大胆前进”\n\nとあるメンヘラの戯言。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105854863951487048",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2102719457932247348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1790812111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105607558669250560/873kngKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 2470,
+          "like_count": 1447,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T01:52:01.000Z",
+        "description": "生产日期2011/11/22~初三一枚~友跨  1/3个家长党！已出柜，未含糖，大学再做决定喵！~比较玻璃心...很敏感...请不要过度批评...可以随时与我聊天！这是我的哥哥@Mak1287267这是我的弟弟@Mark67358226这是我的Q号2902149409，平时可以互相交流哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Mak1287267"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "Mark67358226"
+              }
+            ]
+          }
+        },
+        "id": "2078658599153442816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105900063235121581",
+        "name": "一月酱January sauce~♡",
+        "pinned_tweet_id": "2105796021355954645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078658599153442816/1786406071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098432678441967616/PdqziP33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 544,
+          "like_count": 4573,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1675
+        },
+        "url": "",
+        "username": "XiyangMinzhiXiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

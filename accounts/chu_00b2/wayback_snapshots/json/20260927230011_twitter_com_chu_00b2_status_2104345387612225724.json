@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2104345387612225724",
+    "created_at": "2026-09-27T23:00:11.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104345387612225724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dream_Shards/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Dream_Shards/status/2104300415038943575",
+          "start": 39,
+          "url": "https://t.co/NWmmQLxnYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104345387612225724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104300415038943575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我整天到底在胡思乱想什么…\n就应该整天把我操到没力气…\n这样就什么也不用想了 https://t.co/NWmmQLxnYW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2104345387612225724",
+        "created_at": "2026-09-27T23:00:11.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104345387612225724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dream_Shards/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Dream_Shards/status/2104300415038943575",
+              "start": 39,
+              "url": "https://t.co/NWmmQLxnYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104345387612225724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104300415038943575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我整天到底在胡思乱想什么…\n就应该整天把我操到没力气…\n这样就什么也不用想了 https://t.co/NWmmQLxnYW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "2104300415038943575",
+        "created_at": "2026-09-27T20:01:29.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104300415038943575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Box3_jilil/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Box3_jilil/status/2104192588639293796",
+              "start": 39,
+              "url": "https://t.co/VRc5tuf0fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104300415038943575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104192588639293796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我整天到底在胡思乱想什么…\n就应该整天把我操到没力气…\n这样就什么也不用想了 https://t.co/VRc5tuf0fl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2104345387612225724",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1502,
+          "like_count": 15455,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "小证含糖hrt：26.2.18/非资深oder\n想聊天倾诉想被抱抱都可以来找我喵♡\n已和原生家庭断绝所有关系\n地雷系重力系警告\n爱人：@zhangxiaofu673\n最好的朋友：@XiaZeXR0430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "zhangxiaofu673"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "XiaZeXR0430"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "is_identity_verified": false,
+        "location": "距离你3.2km",
+        "most_recent_tweet_id": "2104306004397859228",
+        "name": "碎梦🍥",
+        "pinned_tweet_id": "2086449038396891142",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906595429162299392/1756599804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 776,
+          "like_count": 2215,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

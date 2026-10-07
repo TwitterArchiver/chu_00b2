@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2099538142298788211",
+    "created_at": "2026-09-14T16:37:55.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099538142298788211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruoli_520/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/ruoli_520/status/2099486276017926516",
+          "start": 38,
+          "url": "https://t.co/1jlRVFnYWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099538142298788211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099486276017926516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "穷不过三代是对的，我家作为家族里最区的一脉成功的养出了小药娘，没下一代了（ https://t.co/1jlRVFnYWc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2099538142298788211",
+        "created_at": "2026-09-14T16:37:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099538142298788211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruoli_520/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ruoli_520/status/2099486276017926516",
+              "start": 38,
+              "url": "https://t.co/1jlRVFnYWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099538142298788211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099486276017926516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷不过三代是对的，我家作为家族里最区的一脉成功的养出了小药娘，没下一代了（ https://t.co/1jlRVFnYWc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095375026824613888",
+        "conversation_id": "2099486276017926516",
+        "created_at": "2026-09-14T13:11:49.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099486276017926516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h2o2333/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/h2o2333/status/2099443714020327457",
+              "start": 38,
+              "url": "https://t.co/9nuCimbmZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099486276017926516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1046,
+          "like_count": 16,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099443714020327457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷不过三代是对的，我家作为家族里最区的一脉成功的养出了小药娘，没下一代了（ https://t.co/9nuCimbmZp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 也许要戒o戒割? | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2099538142298788211",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1782017244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1455,
+          "like_count": 13814,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T04:56:01.000Z",
+        "description": "MTF/HRTing/宅家ing/170cm/50kg/无不良嗜好/随机发癫/抑郁/焦虑/疑似人类/超低情商与智商/私信互fo/",
+        "id": "2095375026824613888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099537266347757610",
+        "name": "luna_若璃",
+        "pinned_tweet_id": "2096948801672212884",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095375026824613888/1788425560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096663024811839488/8qw5E3uG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 35,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "ruoli_520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

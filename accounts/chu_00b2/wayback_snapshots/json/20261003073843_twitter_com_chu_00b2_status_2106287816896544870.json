@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2106040843731947750",
+    "created_at": "2026-10-03T07:38:43.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106287816896544870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822109599459397632",
+          "start": 0,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106287816896544870",
+    "in_reply_to_user_id": "1822109599459397632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106040843731947750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifensix 这谁能绷住不笑啊喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2106040843731947750",
+        "created_at": "2026-10-03T07:38:43.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106287816896544870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106287816896544870",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106040843731947750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix 这谁能绷住不笑啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2106040843731947750",
+        "created_at": "2026-10-02T15:17:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106040843731947750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106040843731947750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8038,
+          "like_count": 265,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒工作就该是在街上循环播放剧烈变形和我变成了一只鸡 笑的全部拷起来拉去尿检"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2106287816896544870",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1511,
+          "like_count": 15812,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人 自己找骂的除外😎\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n小号 @zifeneight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuFsw2"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106282859183161520",
+        "name": "自分",
+        "pinned_tweet_id": "2105663916798013916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822109599459397632/1790405847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 204,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/GFoTTuFsw2",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

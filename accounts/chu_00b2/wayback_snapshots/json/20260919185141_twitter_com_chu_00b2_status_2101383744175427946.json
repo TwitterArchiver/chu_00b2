@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932043060550242304",
+    "conversation_id": "2101241980852593076",
+    "created_at": "2026-09-19T18:51:41.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101383744175427946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069859146086907904",
+          "start": 0,
+          "username": "xooxksnsb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101383744175427946",
+    "in_reply_to_user_id": "2069859146086907904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101241980852593076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xooxksnsb2 垃圾桶在哪？我有点事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2101241941656821761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkcab-bYAElcW_.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 5742,
+        "height": 1280,
+        "media_key": "13_2101241953992216576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101241953992216576/img/R2FhoJQEhC34Uw--.jpg",
+        "public_metrics": {
+          "view_count": 41425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101241953992216576/vid/avc1/320x568/r0jB8tJcuRL9Ajet.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101241953992216576/vid/avc1/480x852/PXGaT6oF6L33OImM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101241953992216576/vid/avc1/720x1280/2U0lju3HVWlH3j1J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101241953992216576/pl/mrcGgKS2mfDv77ja.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932043060550242304",
+        "conversation_id": "2101241980852593076",
+        "created_at": "2026-09-19T18:51:41.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101383744175427946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069859146086907904",
+              "start": 0,
+              "username": "xooxksnsb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101383744175427946",
+        "in_reply_to_user_id": "2069859146086907904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101241980852593076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xooxksnsb2 垃圾桶在哪？我有点事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101241941656821761",
+            "13_2101241953992216576"
+          ]
+        },
+        "author_id": "2069859146086907904",
+        "conversation_id": "2101241980852593076",
+        "created_at": "2026-09-19T09:28:22.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101241980852593076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0IDlpLnzC",
+              "end": 62,
+              "expanded_url": "https://x.com/xooxksnsb2/status/2101241980852593076/video/1",
+              "media_key": "3_2101241941656821761",
+              "start": 39,
+              "url": "https://t.co/y0IDlpLnzC"
+            },
+            {
+              "display_url": "pic.x.com/y0IDlpLnzC",
+              "end": 62,
+              "expanded_url": "https://x.com/xooxksnsb2/status/2101241980852593076/video/1",
+              "media_key": "13_2101241953992216576",
+              "start": 39,
+              "url": "https://t.co/y0IDlpLnzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101241980852593076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101241941656821761"
+          },
+          {
+            "media_key": "13_2101241953992216576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 68421,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢涵哥哥，救我一命，同时也感谢其他兄弟姐妹的关心和帮助，已经把盐扔了🥺🥺🥺 https://t.co/y0IDlpLnzC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:53:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "100209 | mtf | hrt 20260531(色) 202603(雌) | 无证 九月底去陆峥 | en_US zh_Hans/t | 家长党 | 焦虑抑郁强迫 | 记性差见谅 | 超爱阿普大天使pr小天使 dxm!go! | 戒o戒割 | 黑青红三色最喜欢 | 超爱的老公 @Orange_Chr1s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Orange_Chr1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chu00b21",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chu00b21",
+                "start": 0,
+                "url": "https://t.co/BIx2XyaTh5"
+              }
+            ]
+          }
+        },
+        "id": "1932043060550242304",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101383744175427946",
+        "name": "CHU_00B2🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932043060550242304/1789547183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077689103819345920/1ZMEmXLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1456,
+          "like_count": 14254,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/BIx2XyaTh5",
+        "username": "chu_00b2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T19:05:07.000Z",
+        "description": "无证含糖｜出厂时间07.08.13｜傻子一个｜已出柜｜家暴党｜身高:173    体重:54kg｜求互fo私信喵～｜https://t.co/JuKGDqgF0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yueyingxi",
+                "end": 81,
+                "expanded_url": "http://t.me/yueyingxi",
+                "start": 58,
+                "url": "https://t.co/JuKGDqgF0s"
+              }
+            ]
+          }
+        },
+        "id": "2069859146086907904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101339831632900256",
+        "name": "月影汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2095149186488700941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069859146086907904/1787285343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090648198226563072/0PqhZIHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 746,
+          "like_count": 2120,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "xooxksnsb2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
